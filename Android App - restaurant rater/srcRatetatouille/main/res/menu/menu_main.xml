@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.netbook.ratetatouille.MainActivity">
+    <item
+        android:id="@+id/chercher_resto"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_menu_search"
+        android:title="@string/chercher_resto"
+        app:showAsAction="ifRoom" />
+</menu>

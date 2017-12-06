@@ -1,0 +1,53 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.netbook.ratetatouille.AffichageRestaurant">
+    <item
+        android:id="@+id/phonecall_resto"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/stat_sys_phone_call"
+        android:title="@string/appeler_resto"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/streetview_resto"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="@string/localiser_streetview"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/localiser_resto"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="@string/localiser_gmaps"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/edit_resto"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="@string/edit_resto"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/add_calendar_resto"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_menu_agenda"
+        android:title="@string/add_calendar_resto"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/add_contact_resto"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_input_add"
+        android:title="@string/add_to_contacts"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/send_sms_resto"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_dialog_email"
+        android:title="@string/inviter_sms"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/record_voice_resto"
+        android:orderInCategory="100"
+        android:icon="@android:drawable/ic_btn_speak_now"
+        android:title="@string/record_voice_resto"
+        app:showAsAction="never" />
+</menu>

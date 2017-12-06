@@ -1,0 +1,4 @@
+Choix du k-core intéressant :
+
+Comme pour le cas du graphe poules.dot, le 15-core est très intéressant pour sa densité (32) très proche du graphe le plus dense, 13-core (33).
+Pour les mêmes arguments, on peut choisir le 15-core comme graphe extrait intéressant.

@@ -1,0 +1,22 @@
+Compiler le proramme en tapant la commande make sur le terminal.
+Ainsi, l'éxecutable "main" est généré et on lance le programme en tapant ./main sur le terminal.
+
+Vous devez choisir entre différents mode de jeux :
+     -1 Serpent-Echelle qui est le mode de jeux simple avec seulement des échelles et des serpents
+     -2 Serpent-Echelle(variante cases bonus/malus) qui est la variante avec les cases bonus et malus
+     -3 Serpent-Echelle(variante pedagogique) qui est pose des question à chaque joueur avant le tour
+     -4 Serpent-Echelle(variante plusieurs pions) qui permet d'avoir plusieurs pions par joueur
+     -5 Cartagena
+     -6 Numeri
+
+Ensuite choisissez le nombre de joueur humain et robot, suivi par la taille du plateau déterminés par longueur et largeur.
+Ensuite choisissez le nombre d'echelle et de serpent et enfin le nom des joueurs humain.
+Chaque pion est différencié par sa couleur et a une forme ronde. Le bas d'une echelle est spécifié par e suivi du numéro de l'echelle, donc s'il y a deux echelles on aura e1 et e2, et le haut d'une echelle par E1 et E2, de même pour les serpent on utilise s1 pour la queue du serpent 1 et S1 pour la tête du serpent 1.
+
+A chaque tour de joueur humain, voud devrez entre la lettre 'd' qui correspond au lancé de dé. Le tour des robots est évidemment automatique.
+
+Dans la variante Case Orange/Verte il y a les cases 'O' qui correspondent à des cases oranges et 'V' à des cases vertes.
+
+Dans la variante pedagogique, à chaque lancé de dé une question est posée et il faut répondre juste pour pouvoir valider le déplacement.
+
+Dans la variante à plusieurs pions, vous devrez entre la lettre 'd' mais aussi choisir le pion que vous voulez déplacer en entrant le numero de ce pio. Par exemple, si vous avez 3 pions (321) et que vous voulez déplacer le pion 2 vous entrez le chiffre 2 sur le terminal et il ne restera que les pions (31) dans la case initial.

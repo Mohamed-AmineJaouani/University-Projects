@@ -1,0 +1,48 @@
+	README : détail des fichiers 
+
+
+Fichier create_all.sql : 
+	Permet d'éxécuter les fichiers :
+	       - create_tables.sql
+	       - create_triggers.sql
+	       - create_functions.sql
+	se trouve au début de tous les fichiers de test pour avoir un base initialisée à chaque test
+
+
+Fichier create_tables.sql :
+	Création des tables du projet, ainsi que la mise en place des contraintes NOT NULL, des CHECKS, des clés primaires et secondaires.
+
+
+Fichier create_triggers.sql : 
+	Mise en place des triggers décrits dans le rapport
+	   
+
+Fichier create_functions.sql :
+	Fonctions décrites dans le rapport
+
+Fichier test_max_emprunts.sql :
+	Permet de tester que les règles d'emprunts liées au nombre maximal de documents autorisés sont respectées
+
+
+Fichier test_emprunts.sql :
+	Permet de tester les règles d'emprunts décrites dans le sujet :
+	       - emprunter un document seulement si on est inscrit dans le réseau
+	       - emprunter un document seulement s'il est disponible
+	       - emprunter un document qu'on n'a pas déjà emprunté
+	       - emprunter un document seulement si on a un type d'inscription adéquat
+	       - on ne peut réserver que 5 documents maximum par utilisateur
+
+Fichier test_retards.sql :
+	Permet de tester les fonctionnalités de retard :
+	       - ajouter 0.15€ par document en retard et par jour
+	       - alerter lorsque le montant de l'amende atteint 15€
+	       - empêcher d'emprunter ou réserver un document en retard
+	       - s'acquitter de l'amende
+	       - pouvoir réemprunter après s'être acquitté de l'amende
+
+
+Fichier test_fonctionnalites.sql :
+	Permet de tester les fonctionnalités demandées
+
+Fichier clear_prets.sql :
+	Permet de supprimer les entrées de la table PRETS pour effectuer les tests sans supprimer toutes les autres tables

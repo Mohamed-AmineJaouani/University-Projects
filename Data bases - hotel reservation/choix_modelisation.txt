@@ -1,0 +1,4 @@
+La conception de la modélisation a été classique sauf sur certaines relations :
+
+Nous avons créé des tables de relations entre les tables table_service et table_reservations, et les tables table_hotel et table_service car pour ces relations, on a besoin de stocker une liste de valeurs.
+Par exemple une réservation peut contenir plusieurs services choisis. Au lieu de les stocker dans une liste, on les stocke dans une table de relation entre les services et les réservations, en utilisant leur id.

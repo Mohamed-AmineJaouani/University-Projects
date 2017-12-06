@@ -1,0 +1,47 @@
+Dakhlia Cyrille					RAPPORT PROJET BASE DE DONNÉES
+Jaouani Mohamed-Amine
+
+
+Simplifications :
+	- On ne gère que les dates et pas les heures (pour les emprunts, réservations  et les rendus)
+	- Si un utilisateur rend un document à une date T, on considère que ce document
+	  est de nouveau disponible dès ce même jour T (indépendamment des heures)
+
+
+
+Fonctions :
+	- inscire un usager
+	- renouveler une inscription
+	- emprunter un document
+	- réserver un document
+	- renouveler un emprunt
+	- rendre un document emprunté
+	- rechercher un document selon le titre, l'auteur, le genre, la langue
+	- effacer les emprunts vieux de 2 mois
+	- statistiques sur les emprunts du mois dernier
+	- statistiques sur le pourcentage du document empruntés par bibliothèque
+	- acquitter une amende
+
+
+
+Triggers :
+	- check_amende
+		vérifie que l'amende n'a pas atteint 15€ pour pouvoir emprunter un document
+	- check_retard
+		vérifie que l'utilisateur n'a pas de document en retard
+	- check_fin_inscription
+		vérifie que l'utilisateur n'est pas au terme de son inscription
+	- check_type_inscription
+		vérifie que l'utilisateur a le bon type d'inscription pour emprunter le document
+	- check_nb_max_emprunts
+		vérifie quel'utilisateur n'a pas atteint les limites d'emprunts
+	- check_rendre_dans_deux_jours
+		alerte qu'un document doit etre rendu dans deux jours
+	- check_livre_reserve_rendu
+		alerte qu'un document emprunté vient d'etre rendu
+	- check_alerte_amende
+		alerte que l'amende a atteint 15€
+	- check_augmente_amende
+		augmente l'amende de 0,15€ par jours et par document en retard
+	- check_supprimer_utilisateurs
+		supprime les utilisateurs dont la date d'inscription remonte à 1 an

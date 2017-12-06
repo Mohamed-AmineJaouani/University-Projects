@@ -1,0 +1,8 @@
+Compilation :
+	    javac *.java
+
+Modularité :
+	   java Modularite fichier.dot communaute.txt
+
+AlgoNewman :
+	   java AlgoNewman [-v] fichier.dot

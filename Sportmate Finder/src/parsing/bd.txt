@@ -1,0 +1,3636 @@
+|||Pilates|Bien-etre|vendredi|18h|19h|
+|||Tai Chi Chuan|Bien-etre|vendredi|15h30|17h|
+F|Mathematiques|5||||||
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Badminton Matchs|Sports de raquette|jeudi|18h|20h|
+M|Medecine|||||||
+|||Salsa debutant|Danses|mardi|15h30|17h30|
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+M|Mathematiques|3||||||
+|||Judo|Combat|lundi|13h30|15h30|
+|Etudes Interculturelles de Langues Appliquees|2||||||
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+|||Hip Hop|Danses|mardi|17h30|19h|
+|Departement de formation de Sciences Exactes|2||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+|||Abdo fessier|Gym Tonic|mardi|13h|14h|
+F|Mathematiques|4||||||
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+|||Salsa Libre|Danses|vendredi|18h|19h|
+M|Chimie|5||||||
+|||Kendo|Combat|vendredi|12h|14h|
+|||Kendo|Combat|jeudi|20h30|22h|
+M|Medecine|||||||
+|||Badminton|Sports de raquette|lundi|14h|16h|
+M|Medecine|||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+F|Langues et Civilisations de lAsie Orientale|1||||||
+|||RM + Abdo fessiers|Gym Tonic|jeudi|13h30|14h30|
+|||Pilates|Bien-etre|vendredi|18h|19h|
+F|Chimie|||||||
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+|||Salsa Libre|Danses|vendredi|18h|19h|
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+|||Step-Fitness|Gym Tonic|mardi|11h|12h|
+F|Departement de formation de Sciences Exactes|2||||||
+F|Medecine|||||||
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+|||Athletisme endurance|Golf/Athletisme|mardi|15h|17h|
+F||||||||
+|||Pilates|Bien-etre|vendredi|18h|19h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Linguistique |4||||||
+|||Badminton|Sports de raquette|vendredi|12h|14h|
+M|Lettres, Arts, Cinema|3||||||
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Mathematiques|||||||
+M|Medecine|||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||West Coast Swing|Danses|mercredi|13h|14h|
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+|Etudes Psychanalytiques|2||||||
+|||Relaxation / Respiration|Bien-etre|lundi|16h|18h|
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+F|Lettres, Arts, Cinema|5||||||
+|||Football|Sports collectifs |mardi|15h|16h30|
+|||Football|Sports collectifs |lundi|14h30|16h30|
+M|Mathematiques|3||||||
+|||Tai Chi Chuan|Bien-etre|vendredi|15h30|17h|
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+F|Institut de la Pensee Contemporaine (dit IHP)|4||||||
+|||Badminton|Sports de raquette|lundi|14h|16h|
+M|Medecine|||||||
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+M|Lettres, Arts, Cinema|4||||||
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Etudes Interculturelles de Langues Appliquees|2||||||
+|||Musculation|Cours de musculation|lundi|16h|18h|
+|||Musculation Dietetique|Cours de musculation|vendredi|15h30|17h|
+M|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Cardio et Musculation|Cours de musculation|lundi|14h|16h|
+M|Mathematiques|3||||||
+|||Cardio boxe fitness|Boxe|lundi|17h|18h|
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+F|Sciences du Vivant|5||||||
+|||Salsa Libre|Danses|vendredi|18h|19h|
+|||Aikido|Combat|jeudi|20h|21h30|
+M|Sciences du Vivant|4||||||
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Informatique|3||||||
+|||Football|Sports collectifs |mardi|15h|16h30|
+|||Pilates|Bien-etre|vendredi|17h|18h|
+|||Zumba|Gym Tonic|lundi|19h|20h|
+M|Mathematiques|3||||||
+F|Geographie, Histoire et Sciences de la Societe |5||||||
+|||Tennis inities|Sports de raquette|mercredi|10h|11h|
+M|Informatique|3||||||
+F|Medecine|||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+M|Physique|3||||||
+|||Relaxation / Respiration|Bien-etre|mardi|14h|15h30|
+|||Musculation|Cours de musculation|mardi|12h30|14h|
+|Departement de formation de Sciences Exactes|2||||||
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Sciences Sociales|5||||||
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+|Sciences du Vivant|2||||||
+|||Handball feminin|Sports collectifs |vendredi|14h|16h|
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+F|Sciences du Vivant|1||||||
+|||Sports de combat de percussion|Boxe|jeudi|12h|14h|
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Badminton Matchs|Sports de raquette|jeudi|16h|18h|
+M|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+|||Hip Hop|Danses|mardi|17h30|19h|
+F||||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+|||Tennis confirmes|Sports de raquette|mercredi|8h30|10h|
+M|Sciences du Vivant|||||||
+|||Karate|Combat|jeudi|18h30|20h|
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+F|Departement de formation de Sciences Exactes|1||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+F|Sciences du Vivant|1||||||
+|||Rock confirmes|Danses|jeudi|19h30|21h|
+|||Krav maga|Combat|mercredi|12h|13h|
+F|Geographie, Histoire et Sciences de la Societe |5||||||
+|||Kendo|Combat|jeudi|20h30|22h|
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Judo|Combat|jeudi|12h30|14h|
+|||Futsal|Sports collectifs |vendredi|12h|13h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+F|Sciences Sociales|4||||||
+|||Futsal|Sports collectifs |vendredi|12h|13h30|
+M|Informatique|3||||||
+|||Relaxation / Respiration|Bien-etre|jeudi|8h30|10h|
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Musculation|Cours de musculation|jeudi|8h30|10h30|
+F|Etudes Anglophones|5||||||
+|||Tennis de table|Sports de raquette|jeudi|10h30|12h30|
+|||Danse Orientale|Danses|lundi|17h|18h45|
+F|Etudes Anglophones|2||||||
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+|||Aikido|Combat|jeudi|20h|21h30|
+M|Informatique|3||||||
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Medecine|||||||
+|||Futsal|Sports collectifs |vendredi|12h|13h30|
+|||Football|Sports collectifs |mardi|16h30|18h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+F|Etudes Interculturelles de Langues Appliquees|3||||||
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Techniques douces|Bien-etre|mardi|15h30|17h30|
+F|Etudes Anglophones|4||||||
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+|||Musculation|Cours de musculation|mardi|9h|11h|
+M|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Atelier de recherche choregraphique|Danses|jeudi|17h|19h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+F|Sciences du Vivant|5||||||
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+M|Informatique|4||||||
+|||Musculation|Cours de musculation|jeudi|8h30|10h30|
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Football|Sports collectifs |lundi|14h30|16h30|
+M|Sciences Sociales|5||||||
+|||Boxe anglaise|Boxe|vendredi|15h30|17h|
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+M|Informatique|3||||||
+|||Taekwondo|Combat|mardi|17h30|19h|
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Aikido|Combat|jeudi|20h|21h30|
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+F|Geographie, Histoire et Sciences de la Societe |5||||||
+M|Medecine|||||||
+|||Pilates|Bien-etre|vendredi|18h|19h|
+|||Musculation Dietetique|Cours de musculation|vendredi|15h30|17h|
+F|Sciences du Vivant|4||||||
+|||Pilates|Bien-etre|vendredi|17h|18h|
+|||Danse Orientale|Danses|lundi|17h|18h45|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Football|Sports collectifs |mardi|15h|16h30|
+|||Football|Sports collectifs |lundi|14h30|16h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Badminton|Sports de raquette|lundi|9h|11h|
+|||Athletisme endurance|Golf/Athletisme|mardi|15h|17h|
+M|Lettres, Arts, Cinema|4||||||
+|||Musculation|Cours de musculation|lundi|16h|18h|
+|||Techniques douces|Bien-etre|jeudi|10h|12h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Pilates|Bien-etre|mardi|11h|12h30|
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+F|Sciences du Vivant|3||||||
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Musculation|Cours de musculation|mardi|12h30|14h|
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+|Departement de formation de Sciences Exactes|2||||||
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+F|Sciences du Vivant|2||||||
+|||Karate|Combat|lundi|18h30|20h|
+F|Etudes Anglophones|4||||||
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+|||Aikido|Combat|lundi|20h|21h30|
+M|Sciences de la Terre de lEnvironnement et des Planetes|5||||||
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+F|Etudes Anglophones|||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+|||Hip Hop|Danses|mardi|17h30|19h|
+F|Etudes Anglophones|4||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+|||Step-Fitness|Gym Tonic|lundi|12h|13h|
+F|Etudes Interculturelles de Langues Appliquees|4||||||
+|||Athletisme vitesse sauts|Golf/Athletisme|mardi|17h|19h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Musculation|Cours de musculation|lundi|16h|18h|
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Physique|4||||||
+|||Handball masculin|Sports collectifs |lundi|11h|12h30|
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+|Sciences du Vivant|2||||||
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+F|Medecine|||||||
+|||Aikido|Combat|jeudi|20h|21h30|
+M|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Football|Sports collectifs |mardi|16h30|18h|
+|||Football|Sports collectifs |mardi|15h|16h30|
+M|Sciences du Vivant|1||||||
+|||Judo|Combat|lundi|13h30|15h30|
+M|Chimie|3||||||
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Boxe francaise debutants|Boxe|mardi|12h|14h|
+|||Danse contemporaine|Danses|jeudi|15h|17h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Circuit Cardio Training|Gym Tonic|jeudi|12h30|13h30|
+|||Badminton|Sports de raquette|lundi|12h30|14h|
+M|Physique|||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+|||Athletisme endurance|Golf/Athletisme|vendredi|14h|16h|
+F|Lettres, Arts, Cinema|3||||||
+|||RM + Stretching Etirement|Gym Tonic|jeudi|12h30|14h|
+|||Golf|Golf/Athletisme|lundi|9h|11h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Krav maga|Combat|mercredi|13h|14h|
+|||Krav maga|Combat|mercredi|12h|13h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Handball feminin|Sports collectifs |mardi|15h30|17h|
+|Etudes Anglophones|2||||||
+|||Kendo|Combat|vendredi|12h|14h|
+|||Kendo|Combat|jeudi|20h30|22h|
+F|Etudes Anglophones|4||||||
+|||RM + Abdo fessiers|Gym Tonic|jeudi|13h30|14h30|
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+F|Ecole dIngenieur Denis Diderot|||||||
+|||Aikido|Combat|lundi|20h|21h30|
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||Judo|Combat|jeudi|12h30|14h|
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+M|Langues et Civilisations de lAsie Orientale|2||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Boxe anglaise|Boxe|vendredi|15h30|17h|
+|||Mixed Martial Arts|Combat|mardi|15h30|17h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+|||Musculation|Cours de musculation|jeudi|8h30|10h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+M|Medecine|||||||
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+M|Chimie|5||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Sciences du Vivant|1||||||
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+|||Hip Hop|Danses|mardi|17h30|19h|
+F||||||||
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+M|Medecine|||||||
+|||Preparation et Entretien Physique|Cours de musculation|mardi|14h|15h30|
+M|Geographie, Histoire et Sciences de la Societe |5||||||
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+|||Zumba|Gym Tonic|lundi|19h|20h|
+F|Chimie|||||||
+|||Aikido|Combat|jeudi|20h|21h30|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Karate|Combat|lundi|18h30|20h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Kendo|Combat|vendredi|12h|14h|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Futsal|Sports collectifs |lundi|20h|22h|
+|||Football|Sports collectifs |mardi|16h30|18h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Step-Fitness|Gym Tonic|lundi|12h|13h|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Geographie, Histoire et Sciences de la Societe |5||||||
+|||Futsal|Sports collectifs |jeudi|12h30|14h|
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Mixed Martial Arts|Combat|mardi|15h30|17h30|
+|||Judo|Combat|lundi|13h30|15h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||Musculation|Cours de musculation|mardi|9h|11h|
+|||Football|Sports collectifs |lundi|14h30|16h30|
+M|Etudes Anglophones|1||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+M|Sciences du Vivant|4||||||
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+F|Linguistique |4||||||
+|||Aikido|Combat|jeudi|20h|21h30|
+|||Aikido|Combat|lundi|20h|21h30|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Relaxation / Respiration|Bien-etre|mardi|14h|15h30|
+|||Techniques douces|Bien-etre|jeudi|10h|12h|
+|Departement de formation de Sciences Exactes|2||||||
+|||Rugby masculin|Sports collectifs |lundi|18h|20h|
+M|Medecine|||||||
+|||Musculation Dietetique|Cours de musculation|vendredi|15h30|17h|
+|||Salsa Libre|Danses|vendredi|18h|19h|
+F|Physique|5||||||
+|||Badminton|Sports de raquette|jeudi|10h30|12h30|
+|||Cardio et Musculation|Cours de musculation|lundi|14h|16h|
+M|Geographie, Histoire et Sciences de la Societe |||||||
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+|||Boxe francaise debutants|Boxe|mardi|12h|14h|
+F|Institut de la Pensee Contemporaine (dit IHP)|5||||||
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+F|Chimie|4||||||
+|||RM + Stretching Etirement|Gym Tonic|mardi|12h30|14h15|
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Lettres, Arts, Cinema|4||||||
+|||Yoga|Bien-etre|mardi|10h|11h30|
+|||Relaxation / Respiration|Bien-etre|lundi|16h|18h|
+F|Lettres, Arts, Cinema|3||||||
+|||Judo|Combat|lundi|13h30|15h30|
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+M|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Aikido|Combat|lundi|20h|21h30|
+|||Mixed Martial Arts|Combat|mardi|15h30|17h30|
+M|Sciences du Vivant|1||||||
+|||Aikido|Combat|jeudi|20h|21h30|
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+F|Departement de formation de Sciences Exactes|1||||||
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+|||Taekwondo|Combat|vendredi|17h30|19h|
+F|Lettres, Arts, Cinema|3||||||
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Futsal|Sports collectifs |lundi|20h|22h|
+M|Mathematiques|4||||||
+|||Salsa debutant|Danses|mardi|15h30|17h30|
+|||Step-Fitness|Gym Tonic|mardi|11h|12h|
+F|Etudes Anglophones|3||||||
+|||Hip Hop|Danses|mardi|17h30|19h|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Boxe francaise debutants|Boxe|mardi|12h|14h|
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+F|Sciences du Vivant|5||||||
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+M|Medecine|||||||
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||RM + Stretching Etirement|Gym Tonic|jeudi|12h30|14h|
+F|Odontologie|||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Informatique|||||||
+|||Aikido|Combat|jeudi|20h|21h30|
+|||Zumba|Gym Tonic|lundi|19h|20h|
+F|Sciences du Vivant|4||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+F|Ecole dIngenieur Denis Diderot|||||||
+F|Medecine|||||||
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+|||Boxe anglaise debutants|Boxe|lundi|12h|14h|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Hip Hop|Danses|mardi|17h30|19h|
+|||Danse contemporaine|Danses|jeudi|15h|17h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Danse contemporaine|Danses|lundi|10h|12h|
+|||Tennis de table|Sports de raquette|jeudi|10h30|12h30|
+F|Lettres, Arts, Cinema|3||||||
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Sciences du Vivant|2||||||
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+|||Badminton|Sports de raquette|lundi|14h|16h|
+M|Mathematiques|5||||||
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+|||Musculation|Cours de musculation|jeudi|8h30|10h30|
+M|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+M|Sciences Sociales|||||||
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Badminton|Sports de raquette|vendredi|12h|14h|
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+F|Etudes Interculturelles de Langues Appliquees|2||||||
+|||Tennis debutants|Sports de raquette|mercredi|11h|12h|
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Krav maga|Combat|mercredi|13h|14h|
+|||Step-Fitness|Gym Tonic|lundi|12h|13h|
+F|Sciences Sociales|4||||||
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+F|Sciences du Vivant|1||||||
+|||Salsa Libre|Danses|vendredi|18h|19h|
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Futsal|Sports collectifs |vendredi|12h|13h30|
+|||Football|Sports collectifs |mardi|15h|16h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Musculation|Cours de musculation|lundi|16h|18h|
+M|Mathematiques|||||||
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+|||Boxe francaise debutants|Boxe|mardi|12h|14h|
+M|Linguistique |4||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+|||Badminton|Sports de raquette|lundi|14h|16h|
+F|Odontologie|||||||
+|||Football|Sports collectifs |mardi|16h30|18h|
+|||Football|Sports collectifs |mardi|15h|16h30|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+F|Etudes Interculturelles de Langues Appliquees|4||||||
+|||Boxe francaise debutants|Boxe|lundi|14h30|16h30|
+M|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Zumba|Gym Tonic|lundi|19h|20h|
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Danse Orientale|Danses|lundi|17h|18h45|
+|||Athletisme endurance|Golf/Athletisme|mardi|15h|17h|
+F|Medecine|||||||
+|||Taekwondo|Combat|mardi|17h30|19h|
+|||Futsal|Sports collectifs |lundi|20h|22h|
+M|Informatique|5||||||
+F|Medecine|||||||
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+|||Tennis de table|Sports de raquette|jeudi|10h30|12h30|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Musculation|Cours de musculation|lundi|16h|18h|
+|||Aikido|Combat|jeudi|20h|21h30|
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+F|Sciences du Vivant|2||||||
+F|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Step-Fitness|Gym Tonic|mardi|11h|12h|
+|||Hip Hop|Danses|mardi|17h30|19h|
+F|Langues et Civilisations de lAsie Orientale|1||||||
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+F|Sciences du Vivant|2||||||
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+|Sciences du Vivant|3||||||
+|||Rugby masculin|Sports collectifs |lundi|18h|20h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+|||Kendo|Combat|vendredi|12h|14h|
+M|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Techniques douces|Bien-etre|mardi|15h30|17h30|
+|||Gym douce|Bien-etre|lundi|13h|14h|
+F|Sciences Sociales|4||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|||Preparation et Entretien Physique|Cours de musculation|lundi|12h|14h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Techniques douces|Bien-etre|jeudi|13h|15h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Mathematiques|5||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|Departement de formation de Sciences Exactes|2||||||
+|||Krav maga|Combat|mercredi|12h|13h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Tennis de table|Sports de raquette|lundi|12h30|14h|
+F|Sciences du Vivant|1||||||
+|||Tai Chi Chuan|Bien-etre|vendredi|15h30|17h|
+|||Hip Hop|Danses|mardi|17h30|19h|
+M|Etudes Psychanalytiques|3||||||
+|||Badminton Matchs|Sports de raquette|jeudi|18h|20h|
+|||Badminton Matchs|Sports de raquette|jeudi|16h|18h|
+M|Informatique|5||||||
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Karate|Combat|lundi|18h30|20h|
+|||Athletisme vitesse sauts|Golf/Athletisme|mardi|17h|19h|
+|Sciences du Vivant|2||||||
+|||Karate|Combat|lundi|18h30|20h|
+|||Kendo|Combat|jeudi|20h30|22h|
+F|Lettres, Arts, Cinema|3||||||
+|||Musculation Dietetique|Cours de musculation|vendredi|15h30|17h|
+M|Etudes Anglophones|3||||||
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||Preparation et Entretien Physique|Cours de musculation|lundi|12h|14h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Tai Chi Chuan|Bien-etre|vendredi|15h30|17h|
+|||Karate|Combat|lundi|18h30|20h|
+M|Etudes Psychanalytiques|3||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Informatique|||||||
+|||Karate|Combat|jeudi|18h30|20h|
+|||Karate|Combat|lundi|18h30|20h|
+F|Departement de formation de Sciences Exactes|1||||||
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+M|Medecine|||||||
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+|||Futsal|Sports collectifs |jeudi|12h30|14h|
+M|Mathematiques|5||||||
+|||RM + Stretching Etirement|Gym Tonic|jeudi|12h30|14h|
+|Sciences du Vivant|||||||
+|||Aikido|Combat|jeudi|20h|21h30|
+M|Sciences du Vivant|4||||||
+|||Pilates|Bien-etre|vendredi|18h|19h|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Lettres, Arts, Cinema|3||||||
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+M|Mathematiques|3||||||
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+|||Krav maga|Combat|mercredi|13h|14h|
+F|Physique|3||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Sciences du Vivant|3||||||
+|||Rugby masculin|Sports collectifs |lundi|18h|20h|
+|||Rugby masculin initiation|Sports collectifs |mercredi|9h|11h|
+M|Medecine|||||||
+|||RM + Abdo fessiers|Gym Tonic|jeudi|13h30|14h30|
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+F|Medecine|||||||
+M|Sciences de la Terre de lEnvironnement et des Planetes|5||||||
+|||Badminton|Sports de raquette|lundi|12h30|14h|
+F||||||||
+|||Kendo|Combat|jeudi|20h30|22h|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Krav maga|Combat|mercredi|13h|14h|
+|||Judo|Combat|lundi|13h30|15h30|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Tai Chi Chuan|Bien-etre|vendredi|15h30|17h|
+|||Pilates|Bien-etre|mardi|11h|12h30|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Acrobaties au sol|Gym Tonic|mardi|14h30|16h30|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F||||||||
+|||Pilates|Bien-etre|lundi|10h30|12h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Pilates|Bien-etre|vendredi|17h|18h|
+|||Gym douce|Bien-etre|lundi|13h|14h|
+F|Sciences du Vivant|3||||||
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+|Departement de formation de Sciences Exactes|1||||||
+|||Musculation Dietetique|Cours de musculation|vendredi|15h30|17h|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||Hip Hop|Danses|mardi|17h30|19h|
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Handball feminin|Sports collectifs |vendredi|14h|16h|
+F|Sciences du Vivant|5||||||
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Aikido|Combat|lundi|20h|21h30|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Physique|||||||
+|||Kendo|Combat|jeudi|20h30|22h|
+|||Natation sauvetage|Sports aquatiques|mardi|8h|10h|
+M|Geographie, Histoire et Sciences de la Societe |||||||
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+M|Linguistique |3||||||
+|||Tai Chi Chuan|Bien-etre|vendredi|15h30|17h|
+|||Badminton|Sports de raquette|vendredi|12h|14h|
+|Langues et Civilisations de lAsie Orientale|2||||||
+|||Krav maga|Combat|mercredi|12h|13h|
+|||Badminton|Sports de raquette|lundi|9h|11h|
+F|Etudes Interculturelles de Langues Appliquees|2||||||
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Karate|Combat|lundi|18h30|20h|
+|||Aikido|Combat|lundi|20h|21h30|
+M|Mathematiques|||||||
+M|Medecine|||||||
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+|||Circuit Cardio Training|Gym Tonic|jeudi|12h30|13h30|
+F|Mathematiques|||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+|||Badminton|Sports de raquette|lundi|9h|11h|
+M|Geographie, Histoire et Sciences de la Societe |5||||||
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F||||||||
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+|||Etirements|Bien-etre|lundi|18h|20h|
+M|Mathematiques|4||||||
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+|||Pilates|Bien-etre|vendredi|17h|18h|
+F|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Rugby masculin|Sports collectifs |lundi|18h|20h|
+M|Mathematiques|4||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+M|Langues et Civilisations de lAsie Orientale|1||||||
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+|||Aikido|Combat|lundi|20h|21h30|
+M|Sciences du Vivant|5||||||
+|||Zumba|Gym Tonic|lundi|19h|20h|
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+F|Lettres, Arts, Cinema|4||||||
+|||Golf|Golf/Athletisme|mardi|11h30|13h30|
+|||Rugby masculin|Sports collectifs |lundi|18h|20h|
+M|Medecine|||||||
+|||Acrobaties au sol|Gym Tonic|mardi|14h30|16h30|
+|||Krav maga|Combat|mercredi|12h|13h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+F|Etudes Interculturelles de Langues Appliquees|2||||||
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+F|Etudes Anglophones|2||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Handball feminin|Sports collectifs |vendredi|14h|16h|
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+F|Sciences du Vivant|||||||
+|||Taekwondo|Combat|mardi|17h30|19h|
+|||Danse contemporaine|Danses|lundi|10h|12h|
+F|Langues et Civilisations de lAsie Orientale|1||||||
+|||Kendo|Combat|vendredi|12h|14h|
+F|Geographie, Histoire et Sciences de la Societe |5||||||
+|||Musculation|Cours de musculation|mardi|9h|11h|
+M|Informatique|5||||||
+|||Atelier de recherche choregraphique|Danses|jeudi|17h|19h|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+M|Sciences du Vivant|1||||||
+|||Musculation Dietetique|Cours de musculation|vendredi|15h30|17h|
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+M|Physique|3||||||
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+|||Boxe anglaise|Boxe|vendredi|15h30|17h|
+M|Sciences Sociales|3||||||
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+M||||||||
+|||Krav maga|Combat|mercredi|13h|14h|
+|||Taekwondo|Combat|mardi|17h30|19h|
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+M|Geographie, Histoire et Sciences de la Societe |5||||||
+|||Badminton|Sports de raquette|vendredi|12h|14h|
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+M|Sciences de la Terre de lEnvironnement et des Planetes|5||||||
+|||RM + Stretching Etirement|Gym Tonic|jeudi|12h30|14h|
+|||Cardio boxe fitness|Boxe|lundi|17h|18h|
+F|Departement de formation de Sciences Exactes|1||||||
+|||Kendo|Combat|vendredi|12h|14h|
+|||Taekwondo|Combat|mardi|17h30|19h|
+|||Boxe francaise debutants|Boxe|lundi|14h30|16h30|
+M|Geographie, Histoire et Sciences de la Societe |4||||||
+M|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Handball feminin|Sports collectifs |vendredi|14h|16h|
+|||Handball feminin|Sports collectifs |mardi|15h30|17h|
+F|Etudes Anglophones|4||||||
+|||Badminton|Sports de raquette|mercredi|12h|14h|
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+M|Physique|4||||||
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+|||Athletisme vitesse sauts|Golf/Athletisme|mardi|17h|19h|
+M|Mathematiques|5||||||
+|||Taekwondo|Combat|mardi|17h30|19h|
+|||Taekwondo|Combat|vendredi|17h30|19h|
+M|Odontologie|5||||||
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+M|Mathematiques|3||||||
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Salsa debutant|Danses|mardi|15h30|17h30|
+|||Pilates|Bien-etre|mardi|11h|12h30|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Boxe anglaise|Boxe|vendredi|15h30|17h|
+|||Salsa debutant|Danses|mardi|15h30|17h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Badminton|Sports de raquette|mercredi|12h|14h|
+|||Hip Hop|Danses|mardi|17h30|19h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Krav maga|Combat|mercredi|13h|14h|
+|||Step-Fitness|Gym Tonic|lundi|12h|13h|
+F|Langues et Civilisations de lAsie Orientale|1||||||
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+|||Handball masculin|Sports collectifs |lundi|11h|12h30|
+|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Salsa debutant|Danses|mardi|15h30|17h30|
+|||Boxe anglaise debutants|Boxe|jeudi|10h|12h|
+M|Institut de la Pensee Contemporaine (dit IHP)|4||||||
+|||Pilates|Bien-etre|lundi|10h30|12h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Salsa Libre|Danses|vendredi|18h|19h|
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+|Linguistique |4||||||
+F|Medecine|||||||
+|||Taekwondo|Combat|mardi|17h30|19h|
+|||Krav maga|Combat|mercredi|13h|14h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Athletisme endurance|Golf/Athletisme|mardi|15h|17h|
+F|Langues et Civilisations de lAsie Orientale|1||||||
+|||RM + Stretching Etirement|Gym Tonic|jeudi|12h30|14h|
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+M|Langues et Civilisations de lAsie Orientale|2||||||
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Etudes Psychanalytiques|3||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Salsa Libre|Danses|vendredi|18h|19h|
+|||Aikido|Combat|jeudi|20h|21h30|
+M|Departement de formation de Sciences Exactes|2||||||
+F|Etudes Interculturelles de Langues Appliquees|5||||||
+|||Tai Chi Chuan|Bien-etre|lundi|15h30|17h|
+F|Etudes Psychanalytiques|3||||||
+|||Musculation|Cours de musculation|mardi|12h30|14h|
+|||Tennis de table|Sports de raquette|jeudi|9h|10h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Badminton Matchs|Sports de raquette|jeudi|18h|20h|
+|||Badminton|Sports de raquette|lundi|14h|16h|
+M|Medecine|||||||
+|||Aikido|Combat|jeudi|20h|21h30|
+|||Aikido|Combat|lundi|20h|21h30|
+M|Informatique|||||||
+|||Sports de combat de percussion|Boxe|jeudi|12h|14h|
+|||Krav maga|Combat|mercredi|13h|14h|
+|Etudes Psychanalytiques|3||||||
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+|||Tennis inities|Sports de raquette|mercredi|10h|11h|
+F|Etudes Anglophones|2||||||
+|||Salsa Libre|Danses|jeudi|17h30|18h30|
+|||Football|Sports collectifs |mardi|16h30|18h|
+M|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||West Coast Swing|Danses|mercredi|13h|14h|
+|||Acrobaties au sol|Gym Tonic|mardi|14h30|16h30|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Football|Sports collectifs |lundi|14h30|16h30|
+|||Football|Sports collectifs |mardi|15h|16h30|
+|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Cardio et Musculation|Cours de musculation|lundi|14h|16h|
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+F|Medecine|||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+F|Medecine|||||||
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+F|Lettres, Arts, Cinema|3||||||
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+|||Preparation et Entretien Physique|Cours de musculation|mardi|14h|15h30|
+M|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Rugby masculin initiation|Sports collectifs |mercredi|9h|11h|
+F|Etudes Anglophones|2||||||
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+|||Barre a terre classique|Danses|jeudi|12h|13h|
+F|Sciences Sociales|5||||||
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+|||Musculation|Cours de musculation|lundi|16h|18h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Musculation|Cours de musculation|lundi|16h|18h|
+|||Karate|Combat|lundi|18h30|20h|
+M|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Acrobaties au sol|Gym Tonic|mardi|14h30|16h30|
+F|Sciences du Vivant|2||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+F|Institut dHematologie|||||||
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+|||Handball masculin|Sports collectifs |lundi|11h|12h30|
+M|Medecine|||||||
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+|||Cardio boxe fitness|Boxe|lundi|17h|18h|
+F||||||||
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+|||Cardio boxe fitness|Boxe|lundi|17h|18h|
+F|Sciences Sociales|4||||||
+|||Aikido|Combat|jeudi|20h|21h30|
+|||Hip Hop|Danses|mardi|17h30|19h|
+M|Informatique|5||||||
+|||Futsal|Sports collectifs |lundi|20h|22h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Kendo|Combat|vendredi|12h|14h|
+|||Danse contemporaine|Danses|lundi|10h|12h|
+F|Lettres, Arts, Cinema|5||||||
+|||Football|Sports collectifs |mardi|15h|16h30|
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+F|Physique|3||||||
+|||Salsa debutant|Danses|mardi|15h30|17h30|
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+F|Departement de formation de Sciences Exactes|1||||||
+|||Mixed Martial Arts|Combat|mardi|15h30|17h30|
+|||Judo|Combat|lundi|13h30|15h30|
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+M|Institut de la Pensee Contemporaine (dit IHP)|4||||||
+F|Etudes Anglophones|5||||||
+F|Medecine|||||||
+|||Handball masculin|Sports collectifs |lundi|11h|12h30|
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+M|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Relaxation / Respiration|Bien-etre|jeudi|8h30|10h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||RM + Stretching Etirement|Gym Tonic|mardi|12h30|14h15|
+|||Pilates|Bien-etre|mardi|11h|12h30|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+F|Medecine|||||||
+|||Badminton|Sports de raquette|mercredi|12h|14h|
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+M|Sciences du Vivant|2||||||
+|||Aikido|Combat|lundi|20h|21h30|
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+F|Departement de formation de Sciences Exactes|1||||||
+|||Badminton Matchs|Sports de raquette|jeudi|16h|18h|
+|||Badminton|Sports de raquette|lundi|14h|16h|
+M|Medecine|||||||
+|||Hip Hop|Danses|mardi|17h30|19h|
+|||Karate|Combat|lundi|18h30|20h|
+M|Sciences du Vivant|3||||||
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+M|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Boxe anglaise|Boxe|vendredi|15h30|17h|
+|||Cardio et Musculation|Cours de musculation|lundi|14h|16h|
+M|Mathematiques|3||||||
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+F|Medecine|||||||
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+|||Hip Hop|Danses|mardi|17h30|19h|
+F|Linguistique |5||||||
+|||Musculation|Cours de musculation|mardi|12h30|14h|
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+M|Sciences du Vivant|5||||||
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Karate|Combat|lundi|18h30|20h|
+|||Taekwondo|Combat|vendredi|17h30|19h|
+M|Geographie, Histoire et Sciences de la Societe |5||||||
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+|||Hip Hop|Danses|mardi|17h30|19h|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||Abdo fessier|Gym Tonic|mardi|13h|14h|
+F|Sciences du Vivant|||||||
+|||Pilates|Bien-etre|vendredi|17h|18h|
+|||Athletisme endurance|Golf/Athletisme|vendredi|14h|16h|
+F|Etudes Interculturelles de Langues Appliquees|4||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+F|Lettres, Arts, Cinema|3||||||
+|||Futsal|Sports collectifs |lundi|20h|22h|
+M|Sciences du Vivant|4||||||
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+|||Futsal|Sports collectifs |lundi|20h|22h|
+M|Physique|3||||||
+|||Taekwondo|Combat|vendredi|17h30|19h|
+|||Badminton|Sports de raquette|lundi|14h|16h|
+|||Taekwondo|Combat|vendredi|17h30|19h|
+|||Mixed Martial Arts|Combat|mardi|15h30|17h30|
+M|Etudes Interculturelles de Langues Appliquees|1||||||
+M|Medecine|||||||
+|||Abdo fessier|Gym Tonic|mardi|13h|14h|
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+F|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Musculation|Cours de musculation|mardi|12h30|14h|
+|||Badminton|Sports de raquette|lundi|14h|16h|
+|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Boxe francaise debutants|Boxe|lundi|14h30|16h30|
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+F|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Sciences du Vivant|3||||||
+|||Pilates|Bien-etre|vendredi|18h|19h|
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Physique|||||||
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Tennis confirmes|Sports de raquette|mercredi|8h30|10h|
+M|Lettres, Arts, Cinema|3||||||
+|||Taekwondo|Combat|mardi|17h30|19h|
+|||Krav maga|Combat|mercredi|13h|14h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Rock confirmes|Danses|jeudi|19h30|21h|
+F|Departement de formation de Sciences Exactes|1||||||
+|||Athletisme endurance|Golf/Athletisme|vendredi|14h|16h|
+M|Sciences du Vivant|2||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Acrobaties au sol|Gym Tonic|mardi|14h30|16h30|
+F|Etudes Interculturelles de Langues Appliquees|4||||||
+|||Techniques douces|Bien-etre|mardi|15h30|17h30|
+F|Etudes Psychanalytiques|5||||||
+|||Gym douce|Bien-etre|lundi|13h|14h|
+F|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Danse Orientale|Danses|lundi|17h|18h45|
+|||Salsa debutant|Danses|mardi|15h30|17h30|
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+|||Preparation et Entretien Physique|Cours de musculation|mardi|14h|15h30|
+|||RM + Abdo fessiers|Gym Tonic|jeudi|13h30|14h30|
+M|Ecole dIngenieur Denis Diderot|||||||
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+F|Etudes Interculturelles de Langues Appliquees|2||||||
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+|||Krav maga|Combat|mercredi|13h|14h|
+F|Sciences du Vivant|2||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+|||Judo|Combat|lundi|13h30|15h30|
+M||||||||
+|||Boxe francaise debutants|Boxe|mardi|12h|14h|
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Etudes Psychanalytiques|4||||||
+|||RM + Stretching Etirement|Gym Tonic|mardi|12h30|14h15|
+|||Krav maga|Combat|mercredi|13h|14h|
+F|Geographie, Histoire et Sciences de la Societe |5||||||
+|||Handball masculin|Sports collectifs |lundi|11h|12h30|
+|||Cardio et Musculation|Cours de musculation|lundi|14h|16h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Handball feminin|Sports collectifs |vendredi|14h|16h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Pilates|Bien-etre|vendredi|18h|19h|
+|||Pilates|Bien-etre|vendredi|17h|18h|
+F|Sciences du Vivant|4||||||
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+|||Barre a terre classique|Danses|jeudi|12h|13h|
+M|Langues et Civilisations de lAsie Orientale|1||||||
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+|||Tennis de table|Sports de raquette|vendredi|12h|14h|
+M|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Badminton|Sports de raquette|lundi|12h30|14h|
+|||Krav maga|Combat|mercredi|13h|14h|
+M|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+|||Musculation|Cours de musculation|jeudi|8h30|10h30|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+M|Departement de formation de Sciences Exactes|1||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Karate|Combat|jeudi|18h30|20h|
+|||Karate|Combat|lundi|18h30|20h|
+M|Sciences du Vivant|1||||||
+|||Salsa Libre|Danses|jeudi|17h30|18h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Musculation Dietetique|Cours de musculation|vendredi|15h30|17h|
+F|Sciences du Vivant|1||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+|||Tai Chi Chuan|Bien-etre|lundi|15h30|17h|
+F|Lettres, Arts, Cinema|4||||||
+|||Tennis de table|Sports de raquette|lundi|12h30|14h|
+M|Etudes Anglophones|5||||||
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+M|Sciences du Vivant|3||||||
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+|||Ju Jitsu bresilien|Combat|lundi|12h|13h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Danse contemporaine|Danses|jeudi|15h|17h|
+|||RM + Abdo fessiers|Gym Tonic|jeudi|13h30|14h30|
+F|Ecole dIngenieur Denis Diderot|||||||
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+M|Informatique|3||||||
+|||Badminton|Sports de raquette|vendredi|12h|14h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+M|Mathematiques|4||||||
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+M|Mathematiques|3||||||
+|||Circuit Cardio Training|Gym Tonic|jeudi|12h30|13h30|
+|||Badminton|Sports de raquette|jeudi|10h30|12h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Handball feminin|Sports collectifs |vendredi|14h|16h|
+F|Departement de formation de Sciences Exactes|1||||||
+|||Salsa debutant|Danses|mardi|15h30|17h30|
+|||Hip Hop|Danses|mardi|17h30|19h|
+F|Sciences Sociales|4||||||
+|||Boxe anglaise debutants|Boxe|lundi|12h|14h|
+F||||||||
+|||Boxe anglaise debutants|Boxe|jeudi|10h|12h|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Step-Fitness|Gym Tonic|mardi|11h|12h|
+|||Badminton|Sports de raquette|jeudi|10h30|12h30|
+F||||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|||Aikido|Combat|jeudi|20h|21h30|
+F|Sciences du Vivant|3||||||
+|||Musculation|Cours de musculation|mardi|9h|11h|
+|Sciences du Vivant|2||||||
+|||Badminton|Sports de raquette|mercredi|12h|14h|
+M|Sciences du Vivant|3||||||
+|||Rock confirmes|Danses|jeudi|19h30|21h|
+|||Pilates|Bien-etre|vendredi|17h|18h|
+F|Informatique|||||||
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+M|Physique|||||||
+|||Pilates|Bien-etre|mardi|11h|12h30|
+F|Lettres, Arts, Cinema|5||||||
+|||Gym douce|Bien-etre|lundi|13h|14h|
+F|Lettres, Arts, Cinema|3||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+F|Ecole dIngenieur Denis Diderot|||||||
+|||Futsal|Sports collectifs |jeudi|12h30|14h|
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+|||Rugby masculin|Sports collectifs |lundi|18h|20h|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||Rock Intermediaire|Danses|mercredi|12h|13h|
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+F|Etudes Psychanalytiques|5||||||
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+|||Badminton|Sports de raquette|vendredi|12h|14h|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Aikido|Combat|jeudi|20h|21h30|
+|||Aikido|Combat|lundi|20h|21h30|
+M|Langues et Civilisations de lAsie Orientale|5||||||
+|||Step-Fitness|Gym Tonic|lundi|12h|13h|
+|||Danse Orientale|Danses|lundi|17h|18h45|
+F|Lettres, Arts, Cinema|4||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+F|Sciences du Vivant|||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+F|Etudes Interculturelles de Langues Appliquees|4||||||
+F|Medecine|||||||
+|||Boxe anglaise debutants|Boxe|jeudi|10h|12h|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Pilates|Bien-etre|vendredi|18h|19h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Lettres, Arts, Cinema|3||||||
+|||Salsa Libre|Danses|vendredi|18h|19h|
+|||Boxe anglaise debutants|Boxe|lundi|12h|14h|
+F|Departement de formation de Sciences Exactes|1||||||
+|||Step-Fitness|Gym Tonic|mardi|11h|12h|
+|||Athletisme endurance|Golf/Athletisme|mardi|15h|17h|
+|||Futsal|Sports collectifs |jeudi|12h30|14h|
+M|Departement de formation de Sciences Exactes|1||||||
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+F|Medecine|||||||
+|||Futsal|Sports collectifs |vendredi|12h|13h30|
+|||Football|Sports collectifs |lundi|14h30|16h30|
+M|Etudes Interculturelles de Langues Appliquees|3||||||
+|||Tai Chi Chuan|Bien-etre|vendredi|15h30|17h|
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+F|Sciences Sociales|4||||||
+|||Etirements|Bien-etre|lundi|18h|20h|
+|||RM + Stretching Etirement|Gym Tonic|jeudi|12h30|14h|
+F|Sciences du Vivant|2||||||
+|||Futsal|Sports collectifs |vendredi|12h|13h30|
+|||Judo|Combat|jeudi|12h30|14h|
+M|Geographie, Histoire et Sciences de la Societe |4||||||
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+F|Medecine|||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|||Badminton|Sports de raquette|lundi|9h|11h|
+|||Boxe anglaise|Boxe|vendredi|15h30|17h|
+|||Badminton|Sports de raquette|lundi|14h|16h|
+|||Kendo|Combat|vendredi|12h|14h|
+|||West Coast Swing|Danses|mercredi|13h|14h|
+|||Musculation Dietetique|Cours de musculation|vendredi|15h30|17h|
+M|Odontologie|||||||
+M|Geographie, Histoire et Sciences de la Societe |3||||||
+F|Langues et Civilisations de lAsie Orientale|2||||||
+M|Departement de formation de Sciences Exactes|1||||||
+F|Langues et Civilisations de lAsie Orientale|||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+|Lettres, Arts, Cinema|3||||||
+|||Tennis debutants|Sports de raquette|mercredi|11h|12h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Ju Jitsu bresilien|Combat|jeudi|10h30|12h30|
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+|||Judo|Combat|jeudi|12h30|14h|
+M|Informatique|4||||||
+F|Medecine|||||||
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+M|Mathematiques|3||||||
+|||Tai Chi Chuan|Bien-etre|vendredi|15h30|17h|
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+M|Mathematiques|4||||||
+|||RM + Abdo fessiers|Gym Tonic|jeudi|13h30|14h30|
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+F|Sciences du Vivant|3||||||
+|||Handball feminin|Sports collectifs |vendredi|14h|16h|
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+F|Mathematiques|4||||||
+|||Handball masculin|Sports collectifs |lundi|11h|12h30|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Etirements|Bien-etre|mardi|12h30|14h|
+|||Aikido|Combat|lundi|20h|21h30|
+M|Physique|5||||||
+|||Athletisme vitesse sauts|Golf/Athletisme|mardi|17h|19h|
+|||Athletisme endurance|Golf/Athletisme|mardi|15h|17h|
+F|Langues et Civilisations de lAsie Orientale|1||||||
+|||Musculation|Cours de musculation|jeudi|8h30|10h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Departement de formation de Sciences Exactes|1||||||
+|||Badminton|Sports de raquette|lundi|12h30|14h|
+|||Badminton|Sports de raquette|vendredi|12h|14h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Abdo fessier|Gym Tonic|mercredi|13h|14h|
+|||Pilates|Bien-etre|mardi|11h|12h30|
+F||||||||
+|||Zumba|Gym Tonic|lundi|19h|20h|
+|||Salsa Libre|Danses|vendredi|18h|19h|
+F|Sciences du Vivant|5||||||
+|||Techniques douces|Bien-etre|jeudi|10h|12h|
+|||Relaxation / Respiration|Bien-etre|mardi|14h|15h30|
+F|Langues et Civilisations de lAsie Orientale|3||||||
+|||Zumba|Gym Tonic|lundi|19h|20h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Informatique|3||||||
+|||Athletisme vitesse sauts|Golf/Athletisme|mardi|17h|19h|
+F|Medecine|||||||
+|||Tai Chi Chuan|Bien-etre|lundi|15h30|17h|
+F|Geographie, Histoire et Sciences de la Societe |5||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Taekwondo|Combat|vendredi|17h30|19h|
+|||Krav maga|Combat|mercredi|13h|14h|
+F|Etudes Psychanalytiques|1||||||
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+F|Lettres, Arts, Cinema|3||||||
+|||Kendo|Combat|jeudi|20h30|22h|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+M|Medecine|||||||
+|||Karate|Combat|jeudi|18h30|20h|
+|||Karate|Combat|lundi|18h30|20h|
+M|Mathematiques|4||||||
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+|||Pilates|Bien-etre|vendredi|17h|18h|
+F|Physique|5||||||
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Cardio et Musculation|Cours de musculation|lundi|14h|16h|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Etudes Anglophones|3||||||
+F|Medecine|||||||
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+|||Badminton|Sports de raquette|lundi|14h|16h|
+M|Mathematiques|5||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Badminton|Sports de raquette|lundi|14h|16h|
+|||Badminton|Sports de raquette|lundi|9h|11h|
+F|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Badminton|Sports de raquette|mercredi|12h|14h|
+M|Informatique|||||||
+|||Musculation|Cours de musculation|mardi|9h|11h|
+M|Odontologie|||||||
+|||Zumba|Gym Tonic|lundi|19h|20h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Sciences du Vivant|5||||||
+|||Boxe anglaise debutants|Boxe|lundi|12h|14h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Badminton|Sports de raquette|jeudi|10h30|12h30|
+|||Tennis de table|Sports de raquette|jeudi|9h|10h30|
+M|Informatique|3||||||
+|||Judo|Combat|jeudi|12h30|14h|
+|||Tai Chi Chuan|Bien-etre|vendredi|15h30|17h|
+F|Etudes Anglophones|2||||||
+|||Badminton|Sports de raquette|lundi|9h|11h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Tennis de table|Sports de raquette|jeudi|9h|10h30|
+|||Tennis de table|Sports de raquette|lundi|14h|16h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Techniques douces|Bien-etre|mardi|15h30|17h30|
+F|Sciences du Vivant|2||||||
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+|||Zumba|Gym Tonic|lundi|19h|20h|
+F||||||||
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Badminton|Sports de raquette|vendredi|12h|14h|
+F|Departement de formation de Sciences Exactes|1||||||
+|||Kendo|Combat|jeudi|20h30|22h|
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+F|Institut dHematologie|||||||
+|||Step-Fitness|Gym Tonic|lundi|12h|13h|
+|||Step-Fitness|Gym Tonic|mardi|11h|12h|
+|Lettres, Arts, Cinema|4||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Football|Sports collectifs |mardi|16h30|18h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Boxe francaise debutants|Boxe|lundi|14h30|16h30|
+F|Etudes Psychanalytiques|3||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+M||||||||
+|||Badminton|Sports de raquette|lundi|9h|11h|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+|||Football|Sports collectifs |mardi|16h30|18h|
+M|Sciences du Vivant|1||||||
+|||Pilates|Bien-etre|vendredi|18h|19h|
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+F|Chimie|4||||||
+|||Step-Fitness|Gym Tonic|mardi|11h|12h|
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+F|Linguistique |5||||||
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+|||Salsa Libre|Danses|jeudi|17h30|18h30|
+F|Etudes Psychanalytiques|2||||||
+|||Relaxation / Respiration|Bien-etre|lundi|16h|18h|
+|||Futsal|Sports collectifs |jeudi|12h30|14h|
+M|Geographie, Histoire et Sciences de la Societe |||||||
+|||Danse Orientale|Danses|lundi|17h|18h45|
+|||RM + Stretching Etirement|Gym Tonic|jeudi|12h30|14h|
+F||||||||
+F|Medecine|||||||
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+|||Musculation|Cours de musculation|lundi|16h|18h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+F|Lettres, Arts, Cinema|4||||||
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+|||Danse contemporaine|Danses|jeudi|15h|17h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Danse Orientale|Danses|lundi|17h|18h45|
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Sciences du Vivant|3||||||
+|||Preparation et Entretien Physique|Cours de musculation|mardi|14h|15h30|
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+F|Etudes Psychanalytiques|1||||||
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+M|Mathematiques|4||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+F|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Aikido|Combat|lundi|20h|21h30|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F||||||||
+M|Medecine|||||||
+|||Badminton|Sports de raquette|lundi|14h|16h|
+M|Mathematiques|3||||||
+|||Krav maga|Combat|mercredi|13h|14h|
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+F||||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F||||||||
+|||Tai Chi Chuan|Bien-etre|lundi|15h30|17h|
+F|Etudes Psychanalytiques|2||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+F|Lettres, Arts, Cinema|3||||||
+|||Techniques douces|Bien-etre|jeudi|10h|12h|
+|||Danse contemporaine|Danses|lundi|10h|12h|
+M|Lettres, Arts, Cinema|5||||||
+|||Ju Jitsu bresilien|Combat|jeudi|10h30|12h30|
+|||Musculation Dietetique|Cours de musculation|vendredi|15h30|17h|
+M|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Tennis de table|Sports de raquette|lundi|14h|16h|
+|||Tennis debutants|Sports de raquette|mercredi|11h|12h|
+F|Geographie, Histoire et Sciences de la Societe |||||||
+|||Karate|Combat|lundi|18h30|20h|
+|||Kendo|Combat|jeudi|20h30|22h|
+M|IUT|||||||
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Etudes Psychanalytiques|3||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+|Langues et Civilisations de lAsie Orientale|5||||||
+|||Aikido|Combat|lundi|20h|21h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Aikido|Combat|jeudi|20h|21h30|
+|||Aikido|Combat|lundi|20h|21h30|
+|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Tennis inities|Sports de raquette|mercredi|10h|11h|
+|||Tennis de table|Sports de raquette|jeudi|10h30|12h30|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Rugby masculin initiation|Sports collectifs |mercredi|9h|11h|
+M|Sciences du Vivant|1||||||
+|||Danse Orientale|Danses|lundi|17h|18h45|
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+|Departement de formation de Sciences Exactes|2||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+M|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||West Coast Swing|Danses|mercredi|13h|14h|
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+F|Sciences du Vivant|3||||||
+|||Yoga|Bien-etre|mardi|10h|11h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Aikido|Combat|jeudi|20h|21h30|
+|||Aikido|Combat|lundi|20h|21h30|
+F|Linguistique |4||||||
+|||Techniques douces|Bien-etre|jeudi|13h|15h|
+|||Hip Hop|Danses|mardi|17h30|19h|
+F||||||||
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+|||RM + Abdo fessiers|Gym Tonic|jeudi|13h30|14h30|
+|||Boxe francaise debutants|Boxe|lundi|14h30|16h30|
+|||Rock confirmes|Danses|jeudi|19h30|21h|
+F|Etudes Psychanalytiques|1||||||
+F|Sciences du Vivant|1||||||
+|||RM + Stretching Etirement|Gym Tonic|mardi|12h30|14h15|
+|||Relaxation / Respiration|Bien-etre|jeudi|8h30|10h|
+F|Lettres, Arts, Cinema|3||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Rugby masculin|Sports collectifs |lundi|18h|20h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Futsal|Sports collectifs |lundi|20h|22h|
+|||Badminton|Sports de raquette|jeudi|10h30|12h30|
+M|Geographie, Histoire et Sciences de la Societe |4||||||
+F|Medecine|||||||
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+M|Medecine|||||||
+|||Badminton|Sports de raquette|jeudi|10h30|12h30|
+F|Sciences du Vivant|1||||||
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+|||Circuit Cardio Training|Gym Tonic|jeudi|12h30|13h30|
+F|Etudes Psychanalytiques|5||||||
+|||Handball feminin|Sports collectifs |vendredi|14h|16h|
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+F|Odontologie|||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Sciences du Vivant|3||||||
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+|||Pilates|Bien-etre|vendredi|18h|19h|
+F|Etudes Anglophones|||||||
+|||Boxe anglaise|Boxe|vendredi|15h30|17h|
+|||Taekwondo|Combat|vendredi|17h30|19h|
+|Sciences du Vivant|3||||||
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+|||Aikido|Combat|lundi|20h|21h30|
+F|Etudes Interculturelles de Langues Appliquees|5||||||
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+F|Etudes Anglophones|3||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+|||RM + Stretching Etirement|Gym Tonic|mardi|12h30|14h15|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Atelier de recherche choregraphique|Danses|jeudi|17h|19h|
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+F|Lettres, Arts, Cinema|3||||||
+|||Pilates|Bien-etre|vendredi|17h|18h|
+|||Zumba|Gym Tonic|lundi|19h|20h|
+F|Sciences du Vivant|3||||||
+|||RM + Stretching Etirement|Gym Tonic|mardi|12h30|14h15|
+|||Athletisme endurance|Golf/Athletisme|vendredi|14h|16h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Danse contemporaine|Danses|lundi|10h|12h|
+F|Lettres, Arts, Cinema|4||||||
+M|Medecine|||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Futsal|Sports collectifs |lundi|20h|22h|
+M|Sciences du Vivant|5||||||
+|||Aikido|Combat|jeudi|20h|21h30|
+|||Cardio boxe fitness|Boxe|lundi|17h|18h|
+M||||||||
+|||Pilates|Bien-etre|mardi|11h|12h30|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Musculation|Cours de musculation|mardi|12h30|14h|
+M|Sciences de la Terre de lEnvironnement et des Planetes|2||||||
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+|||Musculation|Cours de musculation|mardi|9h|11h|
+M|Sciences du Vivant|||||||
+|||Tai Chi Chuan|Bien-etre|lundi|15h30|17h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+M|Geographie, Histoire et Sciences de la Societe |5||||||
+|||Tennis de table|Sports de raquette|vendredi|12h|14h|
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+M|Informatique|3||||||
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+F|Sciences du Vivant|3||||||
+|||Natation sauvetage|Sports aquatiques|mardi|8h|10h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+|||Handball masculin|Sports collectifs |lundi|11h|12h30|
+M|Geographie, Histoire et Sciences de la Societe |3||||||
+F|Medecine|||||||
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+F|Etudes Psychanalytiques|5||||||
+|||Rock confirmes|Danses|jeudi|19h30|21h|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Lettres, Arts, Cinema|4||||||
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+|||Pilates|Bien-etre|lundi|10h30|12h|
+F|Langues et Civilisations de lAsie Orientale|5||||||
+|||RM + Stretching Etirement|Gym Tonic|mardi|12h30|14h15|
+|||Relaxation / Respiration|Bien-etre|jeudi|8h30|10h|
+F|Lettres, Arts, Cinema|3||||||
+|||Salsa Libre|Danses|jeudi|17h30|18h30|
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Pilates|Bien-etre|lundi|10h30|12h|
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+F|Etudes Psychanalytiques|2||||||
+|||Step-Fitness|Gym Tonic|lundi|12h|13h|
+|||Natation Sauvetage et Palmes|Sports aquatiques|jeudi|10h|12h|
+|Departement de formation de Sciences Exactes|1||||||
+|||Karate|Combat|lundi|18h30|20h|
+M|Mathematiques|4||||||
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+M|Informatique|5||||||
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Chimie|3||||||
+|||Zumba|Gym Tonic|lundi|19h|20h|
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+F|Chimie|||||||
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+M|Informatique|||||||
+|||Pilates|Bien-etre|vendredi|17h|18h|
+F|Etudes Psychanalytiques|2||||||
+|||Abdo fessier|Gym Tonic|mardi|13h|14h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+M|Medecine|||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||Danse Orientale|Danses|lundi|17h|18h45|
+F|Informatique|4||||||
+|||Badminton|Sports de raquette|mercredi|12h|14h|
+|||Karate|Combat|jeudi|18h30|20h|
+M|Informatique|||||||
+|||Abdo fessier|Gym Tonic|mardi|13h|14h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Step-Fitness|Gym Tonic|mardi|11h|12h|
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+F|Medecine|||||||
+|||Salsa Libre|Danses|vendredi|18h|19h|
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+F|Sciences du Vivant|5||||||
+|||Tennis de table|Sports de raquette|lundi|14h|16h|
+|||Aikido|Combat|lundi|20h|21h30|
+M|Sciences du Vivant|1||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Step-Fitness|Gym Tonic|mardi|11h|12h|
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+|Departement de formation de Sciences Exactes|1||||||
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Odontologie|||||||
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+|||Aikido|Combat|lundi|20h|21h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Etirements|Bien-etre|lundi|18h|20h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+F|Etudes Anglophones|5||||||
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+M|Physique|||||||
+|||Salsa debutant|Danses|mardi|15h30|17h30|
+|||Musculation|Cours de musculation|jeudi|8h30|10h30|
+M|Physique|||||||
+|||Pilates|Bien-etre|mardi|11h|12h30|
+|||Zumba|Gym Tonic|lundi|19h|20h|
+F|Etudes Anglophones|5||||||
+|||Krav maga|Combat|mercredi|12h|13h|
+|||Boxe francaise debutants|Boxe|lundi|14h30|16h30|
+|Departement de formation de Sciences Exactes|2||||||
+|||Pilates|Bien-etre|lundi|10h30|12h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+F|Sciences du Vivant|1||||||
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+M|Physique|4||||||
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||Badminton|Sports de raquette|lundi|14h|16h|
+M|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Futsal|Sports collectifs |jeudi|12h30|14h|
+|||Badminton|Sports de raquette|mercredi|12h|14h|
+M|Physique|||||||
+|||Futsal|Sports collectifs |jeudi|12h30|14h|
+|||Football|Sports collectifs |mardi|16h30|18h|
+M|Mathematiques|4||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||Badminton|Sports de raquette|jeudi|10h30|12h30|
+M|Informatique|3||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Etudes Anglophones|1||||||
+|||Musculation|Cours de musculation|mardi|12h30|14h|
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+F|Medecine|||||||
+M|Departement de formation de Sciences Exactes|2||||||
+|||Tennis de table|Sports de raquette|lundi|12h30|14h|
+|||Futsal|Sports collectifs |vendredi|12h|13h30|
+M|Sciences Sociales|5||||||
+|||Acrobaties au sol|Gym Tonic|mardi|14h30|16h30|
+F|Sciences du Vivant|2||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+|||Kendo|Combat|jeudi|20h30|22h|
+M|Etudes Anglophones|3||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+|||Boxe anglaise|Boxe|vendredi|15h30|17h|
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+M|Departement de formation de Sciences Exactes|1||||||
+|||Kendo|Combat|vendredi|12h|14h|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+F|Ecole dIngenieur Denis Diderot|||||||
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+F|Etudes Anglophones|2||||||
+|||Tennis debutants|Sports de raquette|mercredi|11h|12h|
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+M|Physique|||||||
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+|||Pilates|Bien-etre|mardi|11h|12h30|
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+|||Ju Jitsu bresilien|Combat|jeudi|10h30|12h30|
+M|Etudes Interculturelles de Langues Appliquees|1||||||
+|||RM + Stretching Etirement|Gym Tonic|mardi|12h30|14h15|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Etudes Psychanalytiques|1||||||
+|||Danse contemporaine|Danses|jeudi|15h|17h|
+|||Taekwondo|Combat|mardi|17h30|19h|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+F|Etudes Anglophones|4||||||
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+F|Departement de formation de Sciences Exactes|1||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Rugby masculin|Sports collectifs |lundi|18h|20h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Tai Chi Chuan|Bien-etre|vendredi|15h30|17h|
+|||Tennis de table|Sports de raquette|jeudi|9h|10h30|
+M|Informatique|4||||||
+|||Circuit Cardio Training|Gym Tonic|jeudi|12h30|13h30|
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+F|Etudes Interculturelles de Langues Appliquees|4||||||
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+|||Mixed Martial Arts|Combat|mardi|15h30|17h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+|||Musculation|Cours de musculation|lundi|16h|18h|
+M|Informatique|5||||||
+|||Taekwondo|Combat|vendredi|17h30|19h|
+|||Boxe francaise debutants|Boxe|lundi|14h30|16h30|
+M|Mathematiques|5||||||
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+M|Sciences du Vivant|1||||||
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+F|Etudes Anglophones|2||||||
+|||Gym douce|Bien-etre|lundi|12h|13h|
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+F|Physique|||||||
+|||Badminton Matchs|Sports de raquette|jeudi|16h|18h|
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Lettres, Arts, Cinema|4||||||
+|||Aikido|Combat|lundi|20h|21h30|
+M|IUT|||||||
+|||Badminton|Sports de raquette|lundi|14h|16h|
+|||Krav maga|Combat|mercredi|13h|14h|
+M|Sciences de la Terre de lEnvironnement et des Planetes|2||||||
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+F|Sciences du Vivant|1||||||
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+|||Danse Orientale|Danses|lundi|17h|18h45|
+F|Odontologie|||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+M|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+F|Sciences du Vivant|1||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+F|Etudes Interculturelles de Langues Appliquees|2||||||
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+M|Informatique|5||||||
+|||Taekwondo|Combat|mardi|17h30|19h|
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+F|Physique|3||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+M|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+|||Cardio et Musculation|Cours de musculation|lundi|14h|16h|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Relaxation / Respiration|Bien-etre|lundi|16h|18h|
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Etudes Interculturelles de Langues Appliquees|3||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+M|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+|||Badminton|Sports de raquette|lundi|14h|16h|
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+M|Sciences de la Terre de lEnvironnement et des Planetes|5||||||
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+F|Sciences du Vivant|3||||||
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+F|Etudes Anglophones|2||||||
+|||Badminton Matchs|Sports de raquette|jeudi|16h|18h|
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+|||Musculation|Cours de musculation|lundi|16h|18h|
+F|Mathematiques|5||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+F|Medecine|||||||
+|||Pilates|Bien-etre|lundi|10h30|12h|
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+F||||||||
+F|Medecine|||||||
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+|||Cardio et Musculation|Cours de musculation|lundi|14h|16h|
+F|Langues et Civilisations de lAsie Orientale|3||||||
+|||Aikido|Combat|jeudi|20h|21h30|
+|||Boxe anglaise|Boxe|vendredi|15h30|17h|
+F|Sciences du Vivant|2||||||
+|||Mixed Martial Arts|Combat|mardi|15h30|17h30|
+|||Judo|Combat|lundi|13h30|15h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Kendo|Combat|vendredi|12h|14h|
+|||Hip Hop|Danses|mardi|17h30|19h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+|||Football|Sports collectifs |mardi|15h|16h30|
+|Informatique|3||||||
+|||Tennis de table|Sports de raquette|lundi|12h30|14h|
+|||Tai Chi Chuan|Bien-etre|vendredi|15h30|17h|
+M|Langues et Civilisations de lAsie Orientale|4||||||
+|||Taekwondo|Combat|vendredi|17h30|19h|
+F|Etudes Anglophones|2||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Golf|Golf/Athletisme|vendredi|9h|11h|
+|||Golf|Golf/Athletisme|lundi|9h|11h|
+|Langues et Civilisations de lAsie Orientale|4||||||
+|||Musculation|Cours de musculation|mardi|9h|11h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Musculation Dietetique|Cours de musculation|vendredi|15h30|17h|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Pilates|Bien-etre|vendredi|18h|19h|
+|||Cardio boxe fitness|Boxe|lundi|17h|18h|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+|||Hip Hop|Danses|mardi|17h30|19h|
+F||||||||
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+|||Boxe Francaise non debutants|Boxe|jeudi|15h|17h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+|||Football|Sports collectifs |mardi|15h|16h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+|||Karate|Combat|lundi|18h30|20h|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Football|Sports collectifs |mardi|15h|16h30|
+|||Football|Sports collectifs |lundi|14h30|16h30|
+M|Sciences du Vivant|2||||||
+|||Danse Orientale|Danses|lundi|17h|18h45|
+F|Sciences Sociales|4||||||
+|||Preparation et Entretien Physique|Cours de musculation|mardi|14h|15h30|
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+|||Abdo fessier|Gym Tonic|mardi|13h|14h|
+|Departement de formation de Sciences Exactes|2||||||
+M|Physique|5||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Departement de formation de Sciences Exactes|1||||||
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|Langues et Civilisations de lAsie Orientale|2||||||
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+|||Football|Sports collectifs |mardi|15h|16h30|
+M|Sciences Sociales|5||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+F||||||||
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+|||Musculation Dietetique|Cours de musculation|vendredi|15h30|17h|
+F|Sciences du Vivant|5||||||
+|||Musculation|Cours de musculation|mardi|12h30|14h|
+|||Mixed Martial Arts|Combat|mardi|15h30|17h30|
+M|Odontologie|||||||
+|||Pilates|Bien-etre|vendredi|17h|18h|
+|||Barre a terre classique|Danses|jeudi|12h|13h|
+F|Sciences du Vivant|5||||||
+|||Karate|Combat|lundi|18h30|20h|
+|||Football|Sports collectifs |lundi|14h30|16h30|
+M|Etudes Interculturelles de Langues Appliquees|2||||||
+|||Etirements|Bien-etre|mardi|12h30|14h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Rugby masculin|Sports collectifs |lundi|18h|20h|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+|||Boxe anglaise|Boxe|vendredi|15h30|17h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Pilates|Bien-etre|lundi|10h30|12h|
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+F|Linguistique |4||||||
+|||Football|Sports collectifs |mardi|16h30|18h|
+|||Badminton|Sports de raquette|lundi|12h30|14h|
+M||||||||
+|||Musculation|Cours de musculation|mardi|9h|11h|
+F|Informatique|5||||||
+|||Football|Sports collectifs |mardi|15h|16h30|
+|||Football|Sports collectifs |lundi|14h30|16h30|
+|Etudes Psychanalytiques|2||||||
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+F|Linguistique |||||||
+|||Musculation|Cours de musculation|mardi|9h|11h|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Odontologie|||||||
+|||Ju Jitsu bresilien|Combat|jeudi|10h30|12h30|
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Techniques douces|Bien-etre|jeudi|13h|15h|
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+F|Ecole dIngenieur Denis Diderot|||||||
+|||Futsal|Sports collectifs |lundi|20h|22h|
+|||Football|Sports collectifs |lundi|14h30|16h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Salsa Libre|Danses|vendredi|18h|19h|
+|||Zumba|Gym Tonic|lundi|19h|20h|
+F|Departement de formation de Sciences Exactes|2||||||
+M|Medecine|||||||
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+M|Sciences du Vivant|3||||||
+|||Hip Hop|Danses|mardi|17h30|19h|
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+M||||||||
+M|Medecine|||||||
+|||Krav maga|Combat|mercredi|12h|13h|
+|||Taekwondo|Combat|vendredi|17h30|19h|
+F|Langues et Civilisations de lAsie Orientale|1||||||
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+|||Zumba|Gym Tonic|lundi|19h|20h|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Pilates|Bien-etre|vendredi|17h|18h|
+|||Pilates|Bien-etre|mardi|11h|12h30|
+F|Lettres, Arts, Cinema|4||||||
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+F|Mathematiques|4||||||
+|||Futsal|Sports collectifs |vendredi|12h|13h30|
+|||Futsal|Sports collectifs |lundi|20h|22h|
+M|Mathematiques|4||||||
+F|Medecine|||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Geographie, Histoire et Sciences de la Societe |||||||
+|||Karate|Combat|jeudi|18h30|20h|
+|||Karate|Combat|lundi|18h30|20h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Salsa Libre|Danses|vendredi|18h|19h|
+|||Boxe anglaise|Boxe|vendredi|15h30|17h|
+M|Mathematiques|4||||||
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+|||Zumba|Gym Tonic|lundi|19h|20h|
+F|Medecine|||||||
+|||Techniques douces|Bien-etre|jeudi|10h|12h|
+|||Step-Fitness|Gym Tonic|mardi|11h|12h|
+|Etudes Psychanalytiques|2||||||
+|||Tai Chi Chuan|Bien-etre|vendredi|15h30|17h|
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+F|Etudes Psychanalytiques|1||||||
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+|||Circuit Cardio Training|Gym Tonic|jeudi|12h30|13h30|
+M|Sciences de la Terre de lEnvironnement et des Planetes|5||||||
+|||Futsal|Sports collectifs |jeudi|12h30|14h|
+|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+|||Boxe anglaise debutants|Boxe|lundi|12h|14h|
+M|Informatique|4||||||
+|||Musculation|Cours de musculation|lundi|16h|18h|
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+M|Informatique|4||||||
+|||Preparation et Entretien Physique|Cours de musculation|lundi|12h|14h|
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|Departement de formation de Sciences Exactes|2||||||
+|||Musculation|Cours de musculation|mardi|9h|11h|
+|||Football|Sports collectifs |lundi|14h30|16h30|
+M|Medecine|||||||
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+|||Musculation|Cours de musculation|lundi|16h|18h|
+M|Informatique|5||||||
+|||Football|Sports collectifs |lundi|14h30|16h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+F|Langues et Civilisations de lAsie Orientale|1||||||
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+F|Sciences du Vivant|3||||||
+|||Krav maga|Combat|mercredi|12h|13h|
+|||Boxe anglaise debutants|Boxe|jeudi|10h|12h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+F|Geographie, Histoire et Sciences de la Societe |5||||||
+F|Medecine|||||||
+|||Taekwondo|Combat|vendredi|17h30|19h|
+|||Danse Orientale|Danses|lundi|17h|18h45|
+F|Etudes Interculturelles de Langues Appliquees|2||||||
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+M|Physique|||||||
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Golf|Golf/Athletisme|mardi|11h30|13h30|
+|||Rugby masculin|Sports collectifs |lundi|18h|20h|
+M|Medecine|||||||
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+|||Badminton|Sports de raquette|lundi|12h30|14h|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+|||RM + Stretching Etirement|Gym Tonic|mardi|12h30|14h15|
+F|Sciences Sociales|4||||||
+|||Boxe francaise debutants|Boxe|lundi|14h30|16h30|
+|||Krav maga|Combat|mercredi|12h|13h|
+F||||||||
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+|||Pilates|Bien-etre|mardi|11h|12h30|
+F|Sciences de la Terre de lEnvironnement et des Planetes|3||||||
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+|||Football|Sports collectifs |mardi|16h30|18h|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Badminton Matchs|Sports de raquette|jeudi|18h|20h|
+|||Badminton Matchs|Sports de raquette|jeudi|16h|18h|
+M|Sciences du Vivant|2||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+M|Etudes Psychanalytiques|5||||||
+|||Handball feminin|Sports collectifs |vendredi|14h|16h|
+F|Etudes Interculturelles de Langues Appliquees|2||||||
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+F|Medecine|||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+F|Mathematiques|3||||||
+|||RM + Abdo fessiers|Gym Tonic|jeudi|13h30|14h30|
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+F|Medecine|||||||
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+|||Karate|Combat|lundi|18h30|20h|
+F|Etudes Psychanalytiques|3||||||
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+F|Etudes Anglophones|3||||||
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+F|Sciences du Vivant|1||||||
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+M|Mathematiques|3||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+F|Etudes Anglophones|2||||||
+|||Ju Jitsu bresilien|Combat|jeudi|10h30|12h30|
+|||Tai Chi Chuan|Bien-etre|lundi|15h30|17h|
+M|Linguistique |3||||||
+|||Athletisme endurance|Golf/Athletisme|vendredi|14h|16h|
+|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+F|Sciences du Vivant|3||||||
+|||RM + Abdo fessiers|Gym Tonic|jeudi|13h30|14h30|
+|||Pilates|Bien-etre|vendredi|17h|18h|
+F|Sciences du Vivant|||||||
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Lettres, Arts, Cinema|3||||||
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+|||Taekwondo|Combat|mardi|17h30|19h|
+F|Langues et Civilisations de lAsie Orientale|1||||||
+|||Rugby masculin|Sports collectifs |lundi|18h|20h|
+M|Langues et Civilisations de lAsie Orientale|1||||||
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Sciences du Vivant|5||||||
+|||Karate|Combat|lundi|18h30|20h|
+|||Kendo|Combat|jeudi|20h30|22h|
+F|Departement de formation de Sciences Exactes|1||||||
+M|Medecine|||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||Salsa Libre|Danses|vendredi|18h|19h|
+F|Geographie, Histoire et Sciences de la Societe |3||||||
+M|Medecine|||||||
+|||Futsal|Sports collectifs |lundi|20h|22h|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+F|Sciences du Vivant|4||||||
+|||Circuit Cardio Training|Gym Tonic|jeudi|12h30|13h30|
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+F|Medecine|||||||
+|||Acrobaties au sol|Gym Tonic|mardi|14h30|16h30|
+|||Aikido|Combat|lundi|20h|21h30|
+F|Etudes Anglophones|3||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+|Departement de formation de Sciences Exactes|2||||||
+|||Mixed Martial Arts|Combat|mardi|15h30|17h30|
+|||Krav maga|Combat|mercredi|13h|14h|
+M|Langues et Civilisations de lAsie Orientale|1||||||
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+|||Badminton|Sports de raquette|vendredi|12h|14h|
+M|Lettres, Arts, Cinema|3||||||
+|||Relaxation / Respiration|Bien-etre|lundi|16h|18h|
+F|Lettres, Arts, Cinema|3||||||
+|||Danse contemporaine|Danses|lundi|10h|12h|
+|||Krav maga|Combat|mercredi|12h|13h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+F|Medecine|||||||
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+M|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Musculation|Cours de musculation|lundi|16h|18h|
+M|Sciences du Vivant|2||||||
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+M|Etudes Psychanalytiques|5||||||
+|||Badminton|Sports de raquette|jeudi|10h30|12h30|
+|||Krav maga|Combat|mercredi|12h|13h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+M|Sciences du Vivant|5||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+|||Futsal|Sports collectifs |lundi|20h|22h|
+|||Pilates|Bien-etre|lundi|10h30|12h|
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+M|Mathematiques|4||||||
+F|Etudes Interculturelles de Langues Appliquees|4||||||
+|||Cardio et Musculation|Cours de musculation|lundi|14h|16h|
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+F|Physique|3||||||
+|||Taekwondo|Combat|mardi|17h30|19h|
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+M||||||||
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+F|Etudes Psychanalytiques|5||||||
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+M|Langues et Civilisations de lAsie Orientale|1||||||
+|||Rugby masculin|Sports collectifs |lundi|18h|20h|
+M|Medecine|2||||||
+|||Kendo|Combat|jeudi|20h30|22h|
+F|Departement de formation de Sciences Exactes|1||||||
+|||Step-Fitness|Gym Tonic|mardi|11h|12h|
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+F|Etudes Anglophones|4||||||
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+|||Tennis de table|Sports de raquette|vendredi|12h|14h|
+|||Boxe anglaise debutants|Boxe|lundi|12h|14h|
+|||West Coast Swing|Danses|mercredi|13h|14h|
+F|Etudes Anglophones|4||||||
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+M|Informatique|3||||||
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+F|Etudes Psychanalytiques|2||||||
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+F|Sciences du Vivant|3||||||
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+|||Zumba|Gym Tonic|lundi|19h|20h|
+F||||||||
+|||Boxe anglaise|Boxe|vendredi|15h30|17h|
+M|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Preparation et Entretien Physique|Cours de musculation|mardi|14h|15h30|
+M|Physique|4||||||
+|||Badminton|Sports de raquette|lundi|9h|11h|
+|||West Coast Swing|Danses|mercredi|13h|14h|
+M|Lettres, Arts, Cinema|5||||||
+|||Gym douce|Bien-etre|lundi|12h|13h|
+|||Krav maga|Combat|mercredi|13h|14h|
+F|Sciences Sociales|5||||||
+|||Football|Sports collectifs |mardi|15h|16h30|
+M|Sciences du Vivant|3||||||
+|||Hip Hop|Danses|mardi|17h30|19h|
+|||Acrobaties au sol|Gym Tonic|mardi|14h30|16h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Cardio et Musculation|Cours de musculation|lundi|14h|16h|
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Abdo fessier|Gym Tonic|mardi|13h|14h|
+|||Relaxation / Respiration|Bien-etre|lundi|16h|18h|
+F|Lettres, Arts, Cinema|4||||||
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+|||Etirements|Bien-etre|lundi|18h|20h|
+F|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||Pilates|Bien-etre|mardi|11h|12h30|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Pilates|Bien-etre|lundi|10h30|12h|
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+F|Odontologie|||||||
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+|||Hip Hop|Danses|mardi|17h30|19h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Karate|Combat|jeudi|18h30|20h|
+|||Karate|Combat|lundi|18h30|20h|
+M|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Preparation et Entretien Physique|Cours de musculation|mardi|14h|15h30|
+|||Handball feminin|Sports collectifs |vendredi|14h|16h|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+|||RM + Stretching Etirement|Gym Tonic|jeudi|12h30|14h|
+F||||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Musculation|Cours de musculation|jeudi|8h30|10h30|
+|||Badminton|Sports de raquette|jeudi|10h30|12h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Linguistique |3||||||
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+|||Tennis debutants|Sports de raquette|mercredi|11h|12h|
+M|Sciences du Vivant|1||||||
+|||Zumba|Gym Tonic|lundi|19h|20h|
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+F|Etudes Anglophones|3||||||
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Kendo|Combat|jeudi|20h30|22h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+M|Physique|||||||
+|||Taekwondo|Combat|vendredi|17h30|19h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+|||Step-Fitness|Gym Tonic|lundi|12h|13h|
+F|Etudes Anglophones|2||||||
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+|||Danse contemporaine|Danses|lundi|10h|12h|
+F|Langues et Civilisations de lAsie Orientale|1||||||
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+|||Step-Fitness|Gym Tonic|lundi|12h|13h|
+F|Sciences du Vivant|3||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+|||Boxe francaise debutants|Boxe|lundi|14h30|16h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+|||Musculation|Cours de musculation|lundi|16h|18h|
+F|Etudes Psychanalytiques|3||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Zumba|Gym Tonic|lundi|19h|20h|
+F|Lettres, Arts, Cinema|4||||||
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+F|Lettres, Arts, Cinema|4||||||
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+|||Aikido|Combat|lundi|20h|21h30|
+M|Sciences du Vivant|1||||||
+|||Ju Jitsu bresilien|Combat|lundi|12h|13h30|
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+F|Mathematiques|3||||||
+F|Medecine|||||||
+|||Aikido|Combat|lundi|20h|21h30|
+F|Sciences du Vivant|4||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Techniques douces|Bien-etre|mardi|15h30|17h30|
+|||Techniques douces|Bien-etre|lundi|14h|16h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+|||Ju Jitsu bresilien|Combat|lundi|12h|13h30|
+F|Lettres, Arts, Cinema|3||||||
+|||Relaxation / Respiration|Bien-etre|jeudi|8h30|10h|
+|||Tennis de table|Sports de raquette|jeudi|10h30|12h30|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Tai Chi Chuan|Bien-etre|vendredi|15h30|17h|
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+M|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+M|Sciences du Vivant|1||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+|||Salsa debutant|Danses|mardi|15h30|17h30|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+|Departement de formation de Sciences Exactes|2||||||
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+|||Musculation|Cours de musculation|jeudi|8h30|10h30|
+F|Etudes Anglophones|1||||||
+|||Salsa debutant|Danses|mardi|15h30|17h30|
+|||Aikido|Combat|lundi|20h|21h30|
+F|Etudes Anglophones|3||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Zumba|Gym Tonic|lundi|19h|20h|
+|||RM + Stretching Etirement|Gym Tonic|mardi|12h30|14h15|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Ecole dIngenieur Denis Diderot|||||||
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Futsal|Sports collectifs |lundi|20h|22h|
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+M|Odontologie|||||||
+M|Medecine|||||||
+|||Pilates|Bien-etre|lundi|10h30|12h|
+F|Etudes Psychanalytiques|5||||||
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Step-Fitness|Gym Tonic|mardi|11h|12h|
+|||Badminton|Sports de raquette|vendredi|12h|14h|
+F|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Futsal|Sports collectifs |jeudi|12h30|14h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Hip Hop|Danses|mardi|17h30|19h|
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+F|Etudes Anglophones|1||||||
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+|||Boxe francaise debutants|Boxe|mardi|12h|14h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Pilates|Bien-etre|lundi|10h30|12h|
+F||||||||
+|||Futsal|Sports collectifs |lundi|20h|22h|
+|||Football|Sports collectifs |lundi|14h30|16h30|
+M|Etudes Interculturelles de Langues Appliquees|2||||||
+|||Musculation|Cours de musculation|lundi|16h|18h|
+|||Boxe anglaise debutants|Boxe|jeudi|10h|12h|
+|Etudes Psychanalytiques|2||||||
+|||Boxe anglaise|Boxe|vendredi|15h30|17h|
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+M|Informatique|3||||||
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+|||Atelier de recherche choregraphique|Danses|jeudi|17h|19h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+|||Football|Sports collectifs |mardi|16h30|18h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Cardio et Musculation|Cours de musculation|lundi|14h|16h|
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Cardio boxe fitness|Boxe|lundi|17h|18h|
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+F|Sciences du Vivant|5||||||
+|||Badminton|Sports de raquette|lundi|14h|16h|
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+F|Medecine|||||||
+|||Zumba|Gym Tonic|lundi|19h|20h|
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Aikido|Combat|jeudi|20h|21h30|
+|||Aikido|Combat|lundi|20h|21h30|
+M|Physique|4||||||
+|||Taekwondo|Combat|vendredi|17h30|19h|
+|||Boxe francaise debutants|Boxe|lundi|14h30|16h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+|||Judo|Combat|lundi|13h30|15h30|
+|Departement de formation de Sciences Exactes|2||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Badminton|Sports de raquette|lundi|14h|16h|
+F||||||||
+F|Medecine|||||||
+|||Pilates|Bien-etre|vendredi|17h|18h|
+|||Krav maga|Combat|mercredi|13h|14h|
+F|Etudes Psychanalytiques|1||||||
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+|||Football|Sports collectifs |mardi|16h30|18h|
+M|Informatique|3||||||
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+|||Boxe anglaise|Boxe|vendredi|15h30|17h|
+|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Yoga|Bien-etre|mardi|10h|11h30|
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Judo|Combat|jeudi|12h30|14h|
+|||Football|Sports collectifs |lundi|14h30|16h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Boxe anglaise debutants|Boxe|lundi|12h|14h|
+|||Football|Sports collectifs |mardi|15h|16h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Musculation Dietetique|Cours de musculation|vendredi|15h30|17h|
+|||Musculation|Cours de musculation|lundi|16h|18h|
+M|Mathematiques|3||||||
+|||Badminton|Sports de raquette|lundi|14h|16h|
+F|Medecine|||||||
+|||Pilates|Bien-etre|vendredi|18h|19h|
+|||Step-Fitness|Gym Tonic|lundi|12h|13h|
+F|Sciences du Vivant|4||||||
+|||Badminton|Sports de raquette|lundi|12h30|14h|
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+F|Etudes Interculturelles de Langues Appliquees|2||||||
+|||Musculation|Cours de musculation|mardi|12h30|14h|
+M|Mathematiques|4||||||
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+M|Physique|||||||
+|||Musculation|Cours de musculation|jeudi|8h30|10h30|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Salsa debutant|Danses|mardi|15h30|17h30|
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+F|Etudes Psychanalytiques|5||||||
+|||Ju Jitsu bresilien|Combat|lundi|12h|13h30|
+|||Pilates|Bien-etre|lundi|10h30|12h|
+F|Linguistique |5||||||
+|||Badminton|Sports de raquette|lundi|14h|16h|
+|||Tennis de table|Sports de raquette|lundi|12h30|14h|
+M|Informatique|3||||||
+|||Tai Chi Chuan|Bien-etre|vendredi|15h30|17h|
+M|Chimie|5||||||
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+M|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Krav maga|Combat|mercredi|13h|14h|
+|||Relaxation / Respiration|Bien-etre|mardi|14h|15h30|
+|Etudes Anglophones|2||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+F|Lettres, Arts, Cinema|4||||||
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+F|Odontologie|||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+F||||||||
+|||Pilates|Bien-etre|mardi|11h|12h30|
+F|Sciences du Vivant|3||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Salsa debutant|Danses|mardi|15h30|17h30|
+|||Relaxation / Respiration|Bien-etre|lundi|16h|18h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+|||Salsa Libre|Danses|vendredi|18h|19h|
+F|Lettres, Arts, Cinema|5||||||
+|||Preparation et Entretien Physique|Cours de musculation|lundi|12h|14h|
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+M|Physique|4||||||
+|||Tennis de table|Sports de raquette|lundi|12h30|14h|
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+M|Medecine|||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+F|Medecine|||||||
+|||Football|Sports collectifs |mardi|15h|16h30|
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+M|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Rugby masculin initiation|Sports collectifs |mercredi|9h|11h|
+M|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+|||Danse Orientale|Danses|lundi|17h|18h45|
+F|Etudes Psychanalytiques|5||||||
+|||Tennis de table|Sports de raquette|jeudi|10h30|12h30|
+|||Tennis de table|Sports de raquette|lundi|14h|16h|
+|||Futsal|Sports collectifs |jeudi|12h30|14h|
+|Departement de formation de Lettres et Sciences Humaines|2||||||
+M|Etudes Anglophones|4||||||
+|||Tennis de table|Sports de raquette|jeudi|9h|10h30|
+|||Musculation|Cours de musculation|mardi|12h30|14h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Etirements|Bien-etre|lundi|18h|20h|
+F|Etudes Psychanalytiques|3||||||
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+|||Taekwondo|Combat|vendredi|17h30|19h|
+M|Sciences du Vivant|2||||||
+|||Circuit Cardio Training|Gym Tonic|jeudi|12h30|13h30|
+|||Pilates|Bien-etre|vendredi|17h|18h|
+F|Informatique|3||||||
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+M|Etudes Anglophones|2||||||
+|||Etirements|Bien-etre|mardi|12h30|14h|
+|||Taekwondo|Combat|vendredi|17h30|19h|
+M|Mathematiques|5||||||
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Zumba|Gym Tonic|lundi|19h|20h|
+|||Pilates|Bien-etre|vendredi|18h|19h|
+F|Physique|||||||
+|||Musculation|Cours de musculation|lundi|16h|18h|
+|||Relaxation / Respiration|Bien-etre|jeudi|8h30|10h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+|||Mixed Martial Arts|Combat|mardi|15h30|17h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+F|Lettres, Arts, Cinema|3||||||
+|||Cardio et Musculation|Cours de musculation|lundi|14h|16h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+F|Sciences du Vivant|5||||||
+|||Athletisme endurance|Golf/Athletisme|vendredi|14h|16h|
+|||Boxe anglaise debutants|Boxe|jeudi|10h|12h|
+F|Sciences Sociales|4||||||
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+M|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+|||Salsa debutant|Danses|mardi|15h30|17h30|
+M|Mathematiques|||||||
+|||Pilates|Bien-etre|vendredi|17h|18h|
+|||Step-Fitness|Gym Tonic|mardi|11h|12h|
+F|Etudes Anglophones|5||||||
+|||Karate|Combat|jeudi|18h30|20h|
+F|Medecine|||||||
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+|||Boxe anglaise|Boxe|vendredi|15h30|17h|
+|Departement de formation de Sciences Exactes|1||||||
+|||Karate|Combat|jeudi|18h30|20h|
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+M|Informatique|4||||||
+|||Badminton|Sports de raquette|lundi|9h|11h|
+|||Krav maga|Combat|mercredi|13h|14h|
+|Etudes Psychanalytiques|3||||||
+F|Medecine|||||||
+|||Pilates|Bien-etre|vendredi|18h|19h|
+|||Zumba|Gym Tonic|lundi|19h|20h|
+F|Sciences du Vivant|5||||||
+|||Badminton|Sports de raquette|lundi|14h|16h|
+F|Mathematiques|3||||||
+|||Musculation|Cours de musculation|jeudi|8h30|10h30|
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+M|Medecine|||||||
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+|Departement de formation de Sciences Exactes|2||||||
+|||Kendo|Combat|vendredi|12h|14h|
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Taekwondo|Combat|mardi|17h30|19h|
+M|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+|Etudes Psychanalytiques|3||||||
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+|||Badminton Matchs|Sports de raquette|jeudi|16h|18h|
+|||Salsa debutant|Danses|mardi|15h30|17h30|
+|||Aikido|Combat|lundi|20h|21h30|
+|||Salsa Libre|Danses|vendredi|18h|19h|
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+|||Taekwondo|Combat|vendredi|17h30|19h|
+|||Taekwondo|Combat|mardi|17h30|19h|
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+|||West Coast Swing|Danses|mercredi|13h|14h|
+F|Langues et Civilisations de lAsie Orientale|3||||||
+M|Chimie|3||||||
+M|Mathematiques|4||||||
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+F|Geographie, Histoire et Sciences de la Societe |||||||
+F|Langues et Civilisations de lAsie Orientale|3||||||
+M|Langues et Civilisations de lAsie Orientale|4||||||
+|||Pilates|Bien-etre|vendredi|17h|18h|
+|||Ju Jitsu bresilien|Combat|jeudi|10h30|12h30|
+|Etudes Psychanalytiques|2||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||RM + Abdo fessiers|Gym Tonic|jeudi|13h30|14h30|
+|||Cardio et Musculation|Cours de musculation|lundi|14h|16h|
+F|Sciences du Vivant|2||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Boxe anglaise debutants|Boxe|jeudi|10h|12h|
+|||Football|Sports collectifs |mardi|15h|16h30|
+M|Informatique|3||||||
+|||Football|Sports collectifs |lundi|14h30|16h30|
+|||Athletisme vitesse sauts|Golf/Athletisme|mardi|17h|19h|
+|Departement de formation de Sciences Exactes|1||||||
+|||Musculation Dietetique|Cours de musculation|vendredi|15h30|17h|
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+M|Lettres, Arts, Cinema|4||||||
+|||Musculation|Cours de musculation|lundi|16h|18h|
+|||Salsa Libre|Danses|vendredi|18h|19h|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+F|Medecine|||||||
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Badminton|Sports de raquette|lundi|9h|11h|
+|||Krav maga|Combat|mercredi|12h|13h|
+F|Etudes Anglophones|4||||||
+|||Football|Sports collectifs |mardi|16h30|18h|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Ju Jitsu bresilien|Combat|lundi|12h|13h30|
+|||Boxe anglaise|Boxe|vendredi|15h30|17h|
+M|Etudes Psychanalytiques|1||||||
+|||Badminton|Sports de raquette|vendredi|12h|14h|
+|||Futsal|Sports collectifs |vendredi|12h|13h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Barre a terre classique|Danses|jeudi|12h|13h|
+|||Pilates|Bien-etre|mardi|11h|12h30|
+F|Geographie, Histoire et Sciences de la Societe |||||||
+|||Zumba|Gym Tonic|lundi|19h|20h|
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+M|Chimie|5||||||
+|||Etirements|Bien-etre|lundi|18h|20h|
+|||Ju Jitsu bresilien|Combat|jeudi|10h30|12h30|
+M|Sciences du Vivant|2||||||
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+|||Badminton|Sports de raquette|lundi|9h|11h|
+M|Langues et Civilisations de lAsie Orientale|5||||||
+|||Zumba|Gym Tonic|lundi|19h|20h|
+|||Etirements|Bien-etre|lundi|18h|20h|
+F|Lettres, Arts, Cinema|3||||||
+|||Cardio boxe fitness|Boxe|lundi|17h|18h|
+F|Etudes Psychanalytiques|1||||||
+|||Handball masculin|Sports collectifs |lundi|11h|12h30|
+|||Badminton|Sports de raquette|mercredi|12h|14h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Judo|Combat|lundi|13h30|15h30|
+|||Futsal|Sports collectifs |jeudi|12h30|14h|
+M|Ecole dIngenieur Denis Diderot|||||||
+M|Medecine|||||||
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+|||RM + Stretching Etirement|Gym Tonic|mardi|12h30|14h15|
+|Departement de formation de Sciences Exactes|2||||||
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+M|Informatique|||||||
+|||Football|Sports collectifs |mardi|16h30|18h|
+|||Football|Sports collectifs |lundi|14h30|16h30|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Taekwondo|Combat|vendredi|17h30|19h|
+|||Football|Sports collectifs |mardi|16h30|18h|
+M|Sciences du Vivant|1||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Ju Jitsu bresilien|Combat|lundi|12h|13h30|
+M|Medecine|||||||
+|||Sports de combat de percussion|Boxe|jeudi|12h|14h|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||Tennis de table|Sports de raquette|vendredi|12h|14h|
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+|Departement de formation de Sciences Exactes|2||||||
+|||Futsal|Sports collectifs |vendredi|12h|13h30|
+|||Futsal|Sports collectifs |lundi|20h|22h|
+M|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+|||Football|Sports collectifs |mardi|15h|16h30|
+M|Sciences du Vivant|2||||||
+|||Danse Orientale|Danses|lundi|17h|18h45|
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+F|Medecine|||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Aikido|Combat|lundi|20h|21h30|
+M|Sciences du Vivant|1||||||
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+F|Etudes Psychanalytiques|3||||||
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+|||Handball feminin|Sports collectifs |mardi|15h30|17h|
+F|Sciences du Vivant|2||||||
+F|Medecine|||||||
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+|||Aikido|Combat|jeudi|20h|21h30|
+M|Physique|5||||||
+|||Cardio et Musculation|Cours de musculation|lundi|14h|16h|
+F|Etudes Interculturelles de Langues Appliquees|4||||||
+|||Judo|Combat|jeudi|12h30|14h|
+|||Judo|Combat|lundi|13h30|15h30|
+M|Lettres, Arts, Cinema|||||||
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+|Ecole dIngenieur Denis Diderot|||||||
+|||Danse contemporaine|Danses|jeudi|15h|17h|
+F|Lettres, Arts, Cinema|3||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+|||Step-Fitness|Gym Tonic|lundi|12h|13h|
+F|Medecine|||||||
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+M|Informatique|3||||||
+|||Boxe anglaise debutants|Boxe|jeudi|10h|12h|
+|||Football|Sports collectifs |mardi|15h|16h30|
+M|Institut de la Pensee Contemporaine (dit IHP)|4||||||
+|||Krav maga|Combat|mercredi|12h|13h|
+|||Tennis de table|Sports de raquette|jeudi|10h30|12h30|
+M|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Pilates|Bien-etre|mardi|11h|12h30|
+|||Athletisme endurance|Golf/Athletisme|vendredi|14h|16h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Zumba|Gym Tonic|lundi|19h|20h|
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+F|Mathematiques|3||||||
+|||Pilates|Bien-etre|mardi|11h|12h30|
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+F||||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+F|Medecine|||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Musculation|Cours de musculation|lundi|16h|18h|
+M|Medecine|||||||
+|||Tai Chi Chuan|Bien-etre|vendredi|15h30|17h|
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Krav maga|Combat|mercredi|12h|13h|
+|||Aikido|Combat|jeudi|20h|21h30|
+M|Sciences du Vivant|3||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+|||Pilates|Bien-etre|lundi|10h30|12h|
+F|Linguistique |||||||
+|||Step-Fitness|Gym Tonic|lundi|12h|13h|
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+|Etudes Interculturelles de Langues Appliquees|2||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Hip Hop|Danses|mardi|17h30|19h|
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+F|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Kendo|Combat|jeudi|20h30|22h|
+F|Departement de formation de Sciences Exactes|1||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+F|Sciences du Vivant|5||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+M|Langues et Civilisations de lAsie Orientale|1||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+M|Medecine|||||||
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+|||Football|Sports collectifs |lundi|14h30|16h30|
+M|Physique|4||||||
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+|||Tennis de table|Sports de raquette|jeudi|9h|10h30|
+M|Informatique|3||||||
+|||Tai Chi Chuan|Bien-etre|vendredi|15h30|17h|
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Aikido|Combat|lundi|20h|21h30|
+|||Kendo|Combat|jeudi|20h30|22h|
+M|Langues et Civilisations de lAsie Orientale|1||||||
+|||Pilates|Bien-etre|lundi|10h30|12h|
+|||Step-Fitness|Gym Tonic|lundi|12h|13h|
+F|Etudes Psychanalytiques|||||||
+|||Aikido|Combat|jeudi|20h|21h30|
+|||Aikido|Combat|lundi|20h|21h30|
+F|Langues et Civilisations de lAsie Orientale|1||||||
+|||Step-Fitness|Gym Tonic|lundi|12h|13h|
+|||Pilates|Bien-etre|lundi|10h30|12h|
+F|Physique|3||||||
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+|||Krav maga|Combat|mercredi|12h|13h|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+|||Aikido|Combat|lundi|20h|21h30|
+F|Etudes Anglophones|3||||||
+|||Krav maga|Combat|mercredi|12h|13h|
+|||Mixed Martial Arts|Combat|mardi|15h30|17h30|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Karate|Combat|jeudi|18h30|20h|
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+M|Sciences de la Terre de lEnvironnement et des Planetes|4||||||
+|||Abdo fessier|Gym Tonic|mardi|13h|14h|
+|||Etirements|Bien-etre|lundi|18h|20h|
+F|Sciences du Vivant|||||||
+|||Golf|Golf/Athletisme|vendredi|9h|11h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Boxe anglaise debutants|Boxe|jeudi|10h|12h|
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+M|Physique|3||||||
+|||Danse Orientale|Danses|lundi|17h|18h45|
+F|Odontologie|||||||
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+|||Abdo fessier|Gym Tonic|lundi|17h30|18h30|
+F|Etudes Psychanalytiques|3||||||
+|||Musculation|Cours de musculation|mardi|12h30|14h|
+|||Rugby masculin|Sports collectifs |lundi|18h|20h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Pilates|Bien-etre|mardi|11h|12h30|
+F|Geographie, Histoire et Sciences de la Societe |3||||||
+|||RM + Abdo fessiers|Gym Tonic|jeudi|13h30|14h30|
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+F|Departement de formation de Sciences Exactes|1||||||
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Etudes Anglophones|4||||||
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+|||Cardio boxe fitness|Boxe|lundi|17h|18h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Zumba|Gym Tonic|lundi|19h|20h|
+F|Chimie|4||||||
+|||Relaxation / Respiration|Bien-etre|jeudi|8h30|10h|
+|||Aikido|Combat|jeudi|20h|21h30|
+F|Sciences Sociales|3||||||
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+|||Handball masculin|Sports collectifs |lundi|11h|12h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Etudes Psychanalytiques|4||||||
+|||Atelier de recherche choregraphique|Danses|jeudi|17h|19h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+|||Boxe francaise debutants|Boxe|lundi|14h30|16h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Badminton Matchs|Sports de raquette|jeudi|16h|18h|
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+F|Medecine|||||||
+M|Departement de formation de Sciences Exactes|2||||||
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+M|Odontologie|||||||
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+|||Tennis de table|Sports de raquette|lundi|14h|16h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Badminton Matchs|Sports de raquette|jeudi|16h|18h|
+F|Medecine|||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+|||Badminton|Sports de raquette|lundi|14h|16h|
+M|Medecine|||||||
+|||Taekwondo|Combat|vendredi|17h30|19h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Sciences Sociales|4||||||
+|||Tennis de table|Sports de raquette|lundi|12h30|14h|
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Musculation|Cours de musculation|mardi|12h30|14h|
+M|Informatique|3||||||
+|||Musculation|Cours de musculation|mardi|9h|11h|
+M|Sciences du Vivant|||||||
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+|||Badminton|Sports de raquette|lundi|14h|16h|
+M|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+|||Abdo fessier|Gym Tonic|mardi|13h|14h|
+F|Ecole dIngenieur Denis Diderot|||||||
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+M|Informatique|4||||||
+|||Preparation et Entretien Physique|Cours de musculation|mardi|14h|15h30|
+M|Mathematiques|5||||||
+|||Zumba|Gym Tonic|lundi|19h|20h|
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+F|Chimie|||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+F|Medecine|||||||
+|||Futsal|Sports collectifs |vendredi|12h|13h30|
+|||Futsal|Sports collectifs |jeudi|12h30|14h|
+M|Sciences du Vivant|3||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Medecine|||||||
+|||Danse Orientale|Danses|lundi|17h|18h45|
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+F|Sciences du Vivant|4||||||
+|||Boxe anglaise|Boxe|vendredi|15h30|17h|
+|||Krav maga|Combat|mercredi|13h|14h|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Football|Sports collectifs |mardi|15h|16h30|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+M|Mathematiques|4||||||
+|||Pilates|Bien-etre|lundi|10h30|12h|
+|Departement de formation de Sciences Exactes|2||||||
+|||Pilates|Bien-etre|vendredi|18h|19h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Sciences du Vivant|4||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+|||Danse Orientale|Danses|lundi|17h|18h45|
+F|Medecine|||||||
+|||Mixed Martial Arts|Combat|mardi|15h30|17h30|
+|||RM + Stretching Etirement|Gym Tonic|mardi|12h30|14h15|
+F|Langues et Civilisations de lAsie Orientale|4||||||
+|||Judo|Combat|lundi|13h30|15h30|
+|Chimie|3||||||
+|||Musculation|Cours de musculation|jeudi|8h30|10h30|
+|||Football|Sports collectifs |lundi|14h30|16h30|
+M|Mathematiques|4||||||
+|||RM + Stretching Etirement|Gym Tonic|jeudi|12h30|14h|
+|||Badminton|Sports de raquette|jeudi|10h30|12h30|
+F|Sciences Sociales|4||||||
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+|||RM + Stretching Etirement|Gym Tonic|mardi|12h30|14h15|
+F|Geographie, Histoire et Sciences de la Societe |||||||
+|||Taekwondo|Combat|mardi|17h30|19h|
+F|Departement de formation de Sciences Exactes|1||||||
+F|Medecine|||||||
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+M|Medecine|||||||
+M|Departement de formation de Sciences Exactes|2||||||
+|||Badminton|Sports de raquette|lundi|14h|16h|
+F|Geographie, Histoire et Sciences de la Societe |||||||
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+|||Tennis inities|Sports de raquette|mercredi|10h|11h|
+M|Geographie, Histoire et Sciences de la Societe |||||||
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+F|Lettres, Arts, Cinema|5||||||
+|||Circuit Cardio Training|Gym Tonic|jeudi|12h30|13h30|
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+M||||||||
+|||Tennis de table|Sports de raquette|vendredi|12h|14h|
+|||Tennis de table|Sports de raquette|lundi|14h|16h|
+M|Mathematiques|3||||||
+|||Futsal|Sports collectifs |lundi|20h|22h|
+|||Football|Sports collectifs |mardi|16h30|18h|
+M|Sciences du Vivant|1||||||
+|||RM + Abdo fessiers|Gym Tonic|jeudi|13h30|14h30|
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+|||Pilates|Bien-etre|vendredi|18h|19h|
+F|Sciences du Vivant|2||||||
+|||Musculation|Cours de musculation|jeudi|8h30|10h30|
+M|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Badminton|Sports de raquette|lundi|9h|11h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Badminton|Sports de raquette|lundi|12h30|14h|
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+F|Sciences Sociales|3||||||
+|||Pilates|Bien-etre|mardi|11h|12h30|
+|||Barre a terre classique|Danses|jeudi|12h|13h|
+F|Lettres, Arts, Cinema|4||||||
+|||Pilates|Bien-etre|vendredi|18h|19h|
+|||Aikido|Combat|lundi|20h|21h30|
+F|Sciences du Vivant|5||||||
+|||Salsa Libre|Danses|vendredi|18h|19h|
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+F|Sciences du Vivant|5||||||
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+|||Pilates|Bien-etre|mardi|11h|12h30|
+F|Etudes Psychanalytiques|2||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+|||Musculation|Cours de musculation|mardi|9h|11h|
+M|Ecole dIngenieur Denis Diderot|||||||
+M|Departement de formation de Sciences Exactes|1||||||
+|||Tennis debutants|Sports de raquette|mercredi|11h|12h|
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Natation sauvetage|Sports aquatiques|mardi|8h|10h|
+|||Nage avec palmes|Sports aquatiques|mardi|10h|12h|
+|Etudes Psychanalytiques|2||||||
+|||Handball masculin|Sports collectifs |lundi|11h|12h30|
+|||Nage avec palmes|Sports aquatiques|mardi|10h|12h|
+|||Natation sauvetage|Sports aquatiques|mardi|8h|10h|
+M|Odontologie|||||||
+|Informatique|3||||||
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Badminton|Sports de raquette|jeudi|10h30|12h30|
+|||Rock confirmes|Danses|jeudi|19h30|21h|
+F|Departement de formation de Sciences Exactes|1||||||
+|||Musculation Dietetique|Cours de musculation|vendredi|15h30|17h|
+M|Etudes Interculturelles de Langues Appliquees|4||||||
+|||Atelier de recherche choregraphique|Danses|jeudi|17h|19h|
+|||Tai Chi Chuan|Bien-etre|lundi|15h30|17h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Musculation|Cours de musculation|lundi|16h|18h|
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+M|Sciences du Vivant|5||||||
+F|Medecine|||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||Handball feminin|Sports collectifs |mardi|15h30|17h|
+|||Kendo|Combat|vendredi|12h|14h|
+F|Langues et Civilisations de lAsie Orientale|4||||||
+|||Boxe anglaise debutants|Boxe|lundi|12h|14h|
+|||Aikido|Combat|lundi|20h|21h30|
+M|Sciences Sociales|5||||||
+|||RM + Stretching Etirement|Gym Tonic|jeudi|12h30|14h|
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+F|Odontologie|||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Mathematiques|3||||||
+M|Medecine|||||||
+M|Medecine|||||||
+|||Handball masculin|Sports collectifs |lundi|11h|12h30|
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+M|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Cardio boxe fitness|Boxe|lundi|17h|18h|
+|||Techniques douces|Bien-etre|jeudi|13h|15h|
+F|Etudes Psychanalytiques|5||||||
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+|Departement de formation de Sciences Exactes|2||||||
+|||Abdo fessier|Gym Tonic|mardi|13h|14h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Langues et Civilisations de lAsie Orientale|5||||||
+|||Athletisme vitesse sauts|Golf/Athletisme|mardi|17h|19h|
+F|Lettres, Arts, Cinema|3||||||
+|||Musculation|Cours de musculation|lundi|16h|18h|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Medecine|||||||
+|||Taekwondo|Combat|vendredi|17h30|19h|
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+F|Sciences du Vivant|4||||||
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+|||Karate|Combat|jeudi|18h30|20h|
+F|Ecole dIngenieur Denis Diderot|||||||
+|||Karate|Combat|lundi|18h30|20h|
+|||Handball masculin|Sports collectifs |lundi|11h|12h30|
+M|Institut de la Pensee Contemporaine (dit IHP)|4||||||
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+|||Futsal|Sports collectifs |vendredi|12h|13h30|
+M|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+M|Langues et Civilisations de lAsie Orientale|1||||||
+|||RM + Stretching Etirement|Gym Tonic|mardi|12h30|14h15|
+|||Badminton|Sports de raquette|vendredi|12h|14h|
+M|Sciences Sociales|4||||||
+|||Football|Sports collectifs |mardi|15h|16h30|
+|||Taekwondo|Combat|vendredi|17h30|19h|
+M|Linguistique |4||||||
+|||Ju Jitsu bresilien|Combat|lundi|12h|13h30|
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+|Departement de formation de Sciences Exactes|2||||||
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+M|Chimie|3||||||
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+|||Mixed Martial Arts|Combat|mardi|15h30|17h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Salsa Libre|Danses|vendredi|18h|19h|
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+F|Chimie|5||||||
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+F|Departement de formation de Sciences Exactes|1||||||
+|||Hip Hop|Danses|mardi|17h30|19h|
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+F|Sciences du Vivant|1||||||
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+|||Musculation|Cours de musculation|lundi|16h|18h|
+|Mathematiques|3||||||
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+F|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Athletisme vitesse sauts|Golf/Athletisme|mardi|17h|19h|
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+M|Informatique|3||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+F|Etudes Psychanalytiques|2||||||
+|||Judo|Combat|lundi|13h30|15h30|
+|Departement de formation de Sciences Exactes|2||||||
+|||Danse Orientale|Danses|lundi|17h|18h45|
+|||Techniques douces|Bien-etre|lundi|14h|16h|
+F|Lettres, Arts, Cinema|5||||||
+|||Rugby masculin|Sports collectifs |lundi|18h|20h|
+M|Medecine|||||||
+|||Tai Chi Chuan|Bien-etre|vendredi|15h30|17h|
+|||Pilates|Bien-etre|lundi|10h30|12h|
+F|Linguistique |||||||
+|||Step-Fitness|Gym Tonic|lundi|12h|13h|
+F|Geographie, Histoire et Sciences de la Societe |||||||
+|||Football|Sports collectifs |mardi|15h|16h30|
+|||Badminton|Sports de raquette|jeudi|10h30|12h30|
+M|Informatique|3||||||
+|||Football|Sports collectifs |mardi|15h|16h30|
+|||Football|Sports collectifs |lundi|14h30|16h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Techniques douces|Bien-etre|jeudi|10h|12h|
+|||Pilates|Bien-etre|lundi|10h30|12h|
+F|Sciences Sociales|4||||||
+|||Badminton|Sports de raquette|jeudi|10h30|12h30|
+|||Musculation|Cours de musculation|mardi|12h30|14h|
+M|Sciences du Vivant|3||||||
+|||Musculation|Cours de musculation|mardi|12h30|14h|
+|||Musculation|Cours de musculation|lundi|16h|18h|
+M|Sciences du Vivant|2||||||
+|||Musculation|Cours de musculation|lundi|16h|18h|
+M|Sciences de la Terre de lEnvironnement et des Planetes|2||||||
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+|||Football|Sports collectifs |mardi|16h30|18h|
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+|||Musculation|Cours de musculation|mardi|9h|11h|
+M|Mathematiques|4||||||
+M|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Rugby masculin|Sports collectifs |lundi|18h|20h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Tennis de table|Sports de raquette|jeudi|10h30|12h30|
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+M|Sciences de la Terre de lEnvironnement et des Planetes|5||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Tennis de table|Sports de raquette|jeudi|10h30|12h30|
+|||Football|Sports collectifs |lundi|14h30|16h30|
+M|Sciences du Vivant|1||||||
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+F|Ecole dIngenieur Denis Diderot|||||||
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+F|Etudes Interculturelles de Langues Appliquees|3||||||
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+|||Mixed Martial Arts|Combat|mardi|15h30|17h30|
+M|Sciences Sociales|5||||||
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Lettres, Arts, Cinema|4||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+F|Etudes Interculturelles de Langues Appliquees|2||||||
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+|||Aikido|Combat|jeudi|20h|21h30|
+M|Mathematiques|4||||||
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Etudes Psychanalytiques|1||||||
+|||Badminton|Sports de raquette|lundi|9h|11h|
+|||Tennis de table|Sports de raquette|vendredi|12h|14h|
+|Mathematiques|3||||||
+|||Badminton|Sports de raquette|lundi|12h30|14h|
+|||Badminton|Sports de raquette|vendredi|12h|14h|
+M|Linguistique |5||||||
+|||Aikido|Combat|jeudi|20h|21h30|
+|||Aikido|Combat|lundi|20h|21h30|
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+F|Etudes Psychanalytiques|4||||||
+F||||||||
+|||Tennis de table|Sports de raquette|lundi|12h30|14h|
+M|Mathematiques|3||||||
+|||Krav maga|Combat|mercredi|13h|14h|
+|||RM + Stretching Etirement|Gym Tonic|mardi|12h30|14h15|
+F|Linguistique |5||||||
+|||Step-Fitness|Gym Tonic|lundi|12h|13h|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Etudes Anglophones|5||||||
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+|||Natation Sauvetage et Palmes|Sports aquatiques|jeudi|10h|12h|
+F|Mathematiques|4||||||
+|||Volley Ball|Sports collectifs |lundi|16h|18h|
+M|Informatique|5||||||
+|||Boxe francaise debutants|Boxe|mardi|12h|14h|
+|||Natation Sauvetage et Palmes|Sports aquatiques|jeudi|10h|12h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+|||Football|Sports collectifs |mardi|15h|16h30|
+M|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Abdo fessier|Gym Tonic|mardi|13h|14h|
+|||Krav maga|Combat|mercredi|13h|14h|
+F|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Lettres, Arts, Cinema|5||||||
+|||Jonglerie|Danses|lundi|10h30|12h|
+|||Zumba|Gym Tonic|lundi|19h|20h|
+|Etudes Interculturelles de Langues Appliquees|4||||||
+|||Badminton|Sports de raquette|lundi|14h|16h|
+F|Medecine|||||||
+|||Futsal|Sports collectifs |jeudi|12h30|14h|
+M|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Step-Fitness|Gym Tonic|vendredi|12h|13h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Ecole dIngenieur Denis Diderot|||||||
+|||Zumba|Gym Tonic|lundi|19h|20h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Langues et Civilisations de lAsie Orientale|1||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+|||Gym douce|Bien-etre|lundi|13h|14h|
+F||||||||
+|||Aikido|Combat|lundi|20h|21h30|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Etudes Anglophones|||||||
+|||Football|Sports collectifs |lundi|14h30|16h30|
+|||Futsal|Sports collectifs |jeudi|12h30|14h|
+M|Etudes Interculturelles de Langues Appliquees|2||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Yoga|Bien-etre|mardi|10h|11h30|
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+F|Geographie, Histoire et Sciences de la Societe |5||||||
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+F|Sciences du Vivant|3||||||
+|||Ju Jitsu bresilien|Combat|lundi|12h|13h30|
+|||Natation Sauvetage et Palmes|Sports aquatiques|jeudi|10h|12h|
+M|Sciences Sociales|5||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Jonglerie|Danses|jeudi|14h|15h30|
+|||Athletisme vitesse sauts|Golf/Athletisme|mardi|17h|19h|
+F||||||||
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+F|Sciences du Vivant|4||||||
+|||Jonglerie|Danses|jeudi|14h|15h30|
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+F|Ecole dIngenieur Denis Diderot|||||||
+|||Acrobaties au sol|Gym Tonic|mardi|14h30|16h30|
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+M||||||||
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+F|Sciences de la Terre de lEnvironnement et des Planetes|4||||||
+|||Etirements|Bien-etre|mardi|12h30|14h|
+M|Departement de formation de Lettres et Sciences Humaines|2||||||
+M|Medecine|||||||
+|||Cardio et Musculation|Cours de musculation|lundi|14h|16h|
+|||Boxe anglaise debutants|Boxe|lundi|12h|14h|
+M|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Taekwondo|Combat|vendredi|17h30|19h|
+|||Taekwondo|Combat|mardi|17h30|19h|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Salsa Libre|Danses|vendredi|18h|19h|
+|||Taekwondo|Combat|vendredi|17h30|19h|
+F|Departement de formation de Sciences Exactes|1||||||
+|||Judo|Combat|jeudi|12h30|14h|
+|||Boxe francaise debutants|Boxe|mardi|12h|14h|
+F||||||||
+F|Medecine|||||||
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||Relaxation / Respiration|Bien-etre|mardi|14h|15h30|
+F|Sciences du Vivant|2||||||
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+|||Karate|Combat|lundi|18h30|20h|
+F|Lettres, Arts, Cinema|3||||||
+F|Medecine|||||||
+F|Medecine|||||||
+F|Medecine|||||||
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+|||Relaxation / Respiration|Bien-etre|lundi|16h|18h|
+F|Etudes Anglophones|2||||||
+|||Salsa Libre|Danses|vendredi|18h|19h|
+|||Tennis de table|Sports de raquette|vendredi|12h|14h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Badminton|Sports de raquette|mercredi|12h|14h|
+F|Linguistique |4||||||
+|||RM + Stretching Etirement|Gym Tonic|jeudi|12h30|14h|
+|||Danse Orientale|Danses|lundi|17h|18h45|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+F|Sciences du Vivant|1||||||
+|||Hip Hop|Danses|mardi|17h30|19h|
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+|||Hip Hop|Danses|mardi|17h30|19h|
+M|Informatique|4||||||
+M|Medecine|||||||
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Salsa debutant|Danses|mardi|15h30|17h30|
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Badminton|Sports de raquette|jeudi|10h30|12h30|
+|||Boxe francaise debutants|Boxe|lundi|14h30|16h30|
+F|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Zumba|Gym Tonic|lundi|19h|20h|
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Tai Chi Chuan|Bien-etre|vendredi|15h30|17h|
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+F|Langues et Civilisations de lAsie Orientale|4||||||
+|||Judo|Combat|lundi|13h30|15h30|
+M|Mathematiques|3||||||
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+F|Informatique|||||||
+|||Tennis de table|Sports de raquette|jeudi|9h|10h30|
+M|Medecine|||||||
+|||Futsal|Sports collectifs |lundi|20h|22h|
+|||Cardio et Musculation|Cours de musculation|lundi|14h|16h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Barre a terre classique|Danses|jeudi|12h|13h|
+|||Aikido|Combat|lundi|20h|21h30|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Salsa debutant|Danses|mardi|15h30|17h30|
+F|Informatique|3||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Pilates|Bien-etre|mardi|11h|12h30|
+M|Langues et Civilisations de lAsie Orientale|1||||||
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||Cardio boxe fitness|Boxe|lundi|17h|18h|
+F|Langues et Civilisations de lAsie Orientale|4||||||
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+F|Etudes Psychanalytiques|3||||||
+|||Futsal|Sports collectifs |lundi|20h|22h|
+|||Futsal|Sports collectifs |jeudi|12h30|14h|
+M|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Etirements|Bien-etre|lundi|18h|20h|
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||Cardio boxe fitness|Boxe|lundi|17h|18h|
+|||Aikido|Combat|jeudi|20h|21h30|
+F|Sciences du Vivant|2||||||
+|||Rugby masculin|Sports collectifs |lundi|18h|20h|
+M|Medecine|||||||
+F|Medecine|||||||
+|||Tennis de table|Sports de raquette|vendredi|12h|14h|
+|||Futsal|Sports collectifs |lundi|20h|22h|
+M|Mathematiques|3||||||
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+F|Sciences Sociales|5||||||
+|||RM + Stretching Etirement|Gym Tonic|jeudi|12h30|14h|
+F|Etudes Anglophones|3||||||
+|||Karate|Combat|lundi|18h30|20h|
+M|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Yoga|Bien-etre|mardi|10h|11h30|
+|||Tai Chi Chuan|Bien-etre|vendredi|15h30|17h|
+F|Sciences Sociales|5||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||Taekwondo|Combat|vendredi|17h30|19h|
+|||Taekwondo|Combat|mardi|17h30|19h|
+|Departement de formation de Sciences Exactes|2||||||
+|||Tennis de table|Sports de raquette|jeudi|10h30|12h30|
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+|Departement de formation de Sciences Exactes|2||||||
+|||Pilates|Bien-etre|lundi|10h30|12h|
+|||Aikido|Combat|lundi|20h|21h30|
+M|Informatique|4||||||
+|||Cardio boxe fitness|Boxe|lundi|17h|18h|
+|||Aikido|Combat|jeudi|20h|21h30|
+M|Linguistique |5||||||
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+|||Pilates|Bien-etre|mardi|11h|12h30|
+F|Lettres, Arts, Cinema|4||||||
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F||||||||
+|||Musculation|Cours de musculation|mardi|12h30|14h|
+|||Boxe francaise savate|Boxe|vendredi|17h|18h30|
+M|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+|||Football|Sports collectifs |mardi|15h|16h30|
+M|Mathematiques|||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+|||Karate|Combat|jeudi|18h30|20h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+|||Musculation|Cours de musculation|lundi|16h|18h|
+M|Linguistique |5||||||
+|||Musculation|Cours de musculation|mercredi|11h30|13h|
+|||Aikido|Combat|lundi|20h|21h30|
+F|Sciences du Vivant|4||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Futsal|Sports collectifs |jeudi|12h30|14h|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Karate|Combat|lundi|18h30|20h|
+|||Aikido|Combat|lundi|20h|21h30|
+M|Mathematiques|3||||||
+|||Step-Fitness|Gym Tonic|lundi|12h|13h|
+|||Danse Orientale|Danses|lundi|17h|18h45|
+F|Sciences du Vivant|4||||||
+|||Zumba|Gym Tonic|lundi|19h|20h|
+F|Mathematiques|3||||||
+|||Boxe francaise debutants|Boxe|lundi|14h30|16h30|
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+F|Etudes Anglophones|1||||||
+|||Cardio boxe fitness|Boxe|lundi|17h|18h|
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+F|Sciences du Vivant|5||||||
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+|||Krav maga|Combat|mercredi|13h|14h|
+F|Mathematiques|5||||||
+|||Musculation|Cours de musculation|mardi|12h30|14h|
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||Techniques douces|Bien-etre|mardi|15h30|17h30|
+|||Taekwondo|Combat|vendredi|17h30|19h|
+|||Pilates|Bien-etre|lundi|10h30|12h|
+F|Medecine|||||||
+F|Linguistique |4||||||
+M|Departement de formation de Sciences Exactes|2||||||
+|||Taekwondo|Combat|vendredi|17h30|19h|
+|||Karate|Combat|jeudi|18h30|20h|
+|||Danse Orientale|Danses|lundi|17h|18h45|
+F|Etudes Psychanalytiques|4||||||
+F|Sciences du Vivant|||||||
+|||Football|Sports collectifs |mardi|16h30|18h|
+|||Football|Sports collectifs |lundi|14h30|16h30|
+M|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+|||Badminton|Sports de raquette|vendredi|12h|14h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Boxe francaise debutants|Boxe|mardi|12h|14h|
+M|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+|||RM + Stretching Etirement|Gym Tonic|jeudi|12h30|14h|
+F|Sciences du Vivant|2||||||
+|||RM + Abdo fessiers|Gym Tonic|jeudi|13h30|14h30|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Lettres, Arts, Cinema|4||||||
+|||Judo|Combat|lundi|13h30|15h30|
+|||Golf|Golf/Athletisme|vendredi|9h|11h|
+F|Sciences Sociales|5||||||
+|||Yoga|Bien-etre|mardi|10h|11h30|
+|||Danse Orientale|Danses|lundi|17h|18h45|
+F|Sciences du Vivant|2||||||
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+|||Salsa debutant|Danses|mardi|15h30|17h30|
+M|Geographie, Histoire et Sciences de la Societe |||||||
+|||Taekwondo|Combat|vendredi|17h30|19h|
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+M|Institut de la Pensee Contemporaine (dit IHP)|4||||||
+|||RM + Abdo fessiers|Gym Tonic|jeudi|13h30|14h30|
+|||Cardio et Musculation|Cours de musculation|lundi|14h|16h|
+M|Sciences du Vivant|2||||||
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+|||Krav maga|Combat|mercredi|13h|14h|
+M|Departement de formation de Lettres et Sciences Humaines|2||||||
+F|Medecine|||||||
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+M|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+|||Salsa Libre|Danses|vendredi|18h|19h|
+F|Geographie, Histoire et Sciences de la Societe |3||||||
+|||Preparation et Entretien Physique|Cours de musculation|lundi|12h|14h|
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+M|Physique|4||||||
+|||Futsal|Sports collectifs |lundi|20h|22h|
+|||Futsal|Sports collectifs |vendredi|12h|13h30|
+M|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Musculation|Cours de musculation|mardi|12h30|14h|
+|||Badminton|Sports de raquette|vendredi|12h|14h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Preparation et Entretien Physique|Cours de musculation|mardi|14h|15h30|
+|||Hip Hop|Danses|mardi|17h30|19h|
+F|Sciences du Vivant|1||||||
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+|||Danse Orientale|Danses|lundi|17h|18h45|
+F|Sciences du Vivant|1||||||
+|||Danse Orientale|Danses|lundi|17h|18h45|
+|||Hip Hop|Danses|mardi|17h30|19h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+|||Musculation|Cours de musculation|lundi|16h|18h|
+M|Sciences Sociales|3||||||
+|||Volley Ball|Sports collectifs |mardi|10h30|12h30|
+|||Badminton|Sports de raquette|lundi|12h30|14h|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Rugby masculin|Sports collectifs |lundi|18h|20h|
+|||Step-Fitness|Gym Tonic|mardi|11h|12h|
+F|Medecine|||||||
+|||Tennis debutants|Sports de raquette|mercredi|11h|12h|
+M|Mathematiques|||||||
+|||Hip Hop|Danses|mardi|17h30|19h|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F||||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+F|Sciences du Vivant|1||||||
+|||Boxe anglaise debutants|Boxe|jeudi|10h|12h|
+|||Abdo fessier|Gym Tonic|mardi|13h|14h|
+F|Etudes Anglophones|1||||||
+|||Zumba|Gym Tonic|vendredi|13h|14h|
+|||Abdo fessier|Gym Tonic|vendredi|13h|14h|
+F|Etudes Interculturelles de Langues Appliquees|2||||||
+|||Step-Fitness|Gym Tonic|lundi|12h|13h|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Cardio boxe fitness|Boxe|lundi|17h|18h|
+|||Rugby masculin initiation|Sports collectifs |mercredi|9h|11h|
+M||||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+M|Physique|3||||||
+|||Rugby masculin|Sports collectifs |lundi|18h|20h|
+|||Badminton|Sports de raquette|lundi|14h|16h|
+M|Medecine|||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+|||Athletisme vitesse sauts|Golf/Athletisme|mardi|17h|19h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Tennis de table|Sports de raquette|vendredi|12h|14h|
+|||Pilates|Bien-etre|vendredi|18h|19h|
+F|Lettres, Arts, Cinema|5||||||
+M|Mathematiques|4||||||
+|||Futsal|Sports collectifs |vendredi|12h|13h30|
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+M|Informatique|||||||
+|||RM + Abdo fessiers|Gym Tonic|jeudi|13h30|14h30|
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+F|Medecine|||||||
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+M|Departement de formation de Sciences Exactes|1||||||
+F|Medecine|||||||
+|||Krav maga|Combat|mercredi|13h|14h|
+|||Pilates|Bien-etre|lundi|10h30|12h|
+F|Geographie, Histoire et Sciences de la Societe |4||||||
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+|||Musculation Minceur|Cours de musculation|vendredi|14h|15h30|
+|||Danse contemporaine|Danses|jeudi|15h|17h|
+|||Taekwondo|Combat|vendredi|17h30|19h|
+|||Taekwondo|Combat|mardi|17h30|19h|
+|||Pilates|Bien-etre|vendredi|18h|19h|
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+|||Aikido|Combat|lundi|20h|21h30|
+|||Preparation et Entretien Physique|Cours de musculation|lundi|12h|14h|
+|||Danse contemporaine|Danses|mardi|17h30|19h|
+|||Boxe anglaise debutants|Boxe|jeudi|10h|12h|
+|||Mixed Martial Arts|Combat|mardi|15h30|17h30|
+F|Etudes Interculturelles de Langues Appliquees|4||||||
+M|Chimie|5||||||
+M|Linguistique |4||||||
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+M|Etudes Interculturelles de Langues Appliquees|1||||||
+M|Departement de formation de Sciences Exactes|1||||||
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+F|Departement de formation de Lettres et Sciences Humaines|2||||||
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+|||Musculation|Cours de musculation|jeudi|8h30|10h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Karate|Combat|jeudi|18h30|20h|
+|||Salsa debutant|Danses|mardi|15h30|17h30|
+|||Musculation Dietetique|Cours de musculation|vendredi|15h30|17h|
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+F|Etudes Interculturelles de Langues Appliquees|4||||||
+|||Musculation|Cours de musculation|mardi|9h|11h|
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+F|Sciences de la Terre de lEnvironnement et des Planetes|5||||||
+F|Medecine|||||||
+|||Pilates|Bien-etre|mardi|11h|12h30|
+F|Etudes Anglophones|4||||||
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+F|Sciences du Vivant|1||||||
+|||Salsa debutant|Danses|jeudi|15h30|17h30|
+|||Yoga|Bien-etre|mardi|10h|11h30|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Aikido|Combat|lundi|20h|21h30|
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Body pump|Gym Tonic|vendredi|14h30|15h30|
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+M|Departement de formation de Sciences Exactes|1||||||
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+|||Futsal|Sports collectifs |lundi|20h|22h|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||RM + Abdo fessiers|Gym Tonic|jeudi|13h30|14h30|
+|||Boxe francaise savate|Boxe|mercredi|12h30|14h|
+F|Etudes Psychanalytiques|3||||||
+|||Danse contemporaine|Danses|jeudi|15h|17h|
+|||Taekwondo|Combat|vendredi|17h30|19h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Futsal|Sports collectifs |jeudi|12h30|14h|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||Karate|Combat|lundi|18h30|20h|
+|||Aikido|Combat|lundi|20h|21h30|
+M|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Golf|Golf/Athletisme|mardi|11h30|13h30|
+|||Karate|Combat|jeudi|18h30|20h|
+M|Mathematiques|4||||||
+|||Musculation Dietetique|Cours de musculation|vendredi|15h30|17h|
+F|Etudes Psychanalytiques|4||||||
+|||Musculation|Cours de musculation|mardi|12h30|14h|
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Handball masculin|Sports collectifs |mardi|17h|18h30|
+M|Ecole dIngenieur Denis Diderot|||||||
+|||RM + Abdo fessiers|Gym Tonic|jeudi|13h30|14h30|
+F|Physique|3||||||
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+|||Salsa intermediaire|Danses|vendredi|16h|18h|
+M|Mathematiques|4||||||
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+M|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Danse contemporaine|Danses|lundi|10h|12h|
+|||Futsal|Sports collectifs |jeudi|12h30|14h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Rock debutant|Danses|jeudi|18h30|19h30|
+|||Mixed Martial Arts|Combat|jeudi|16h30|18h30|
+F|Ecole dIngenieur Denis Diderot|||||||
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Yoga|Bien-etre|mardi|10h|11h30|
+|||Karate|Combat|lundi|18h30|20h|
+F|Langues et Civilisations de lAsie Orientale|2||||||
+|||Musculation|Cours de musculation|mardi|17h30|19h30|
+|||Volley Ball|Sports collectifs |lundi|18h|20h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Badminton|Sports de raquette|mardi|14h|15h30|
+|||Hip Hop|Danses|mardi|17h30|19h|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+|||Basket Ball mixte|Sports collectifs |vendredi|17h30|19h|
+|||Basket Ball mixte|Sports collectifs |vendredi|16h|17h30|
+M|Etudes Psychanalytiques|3||||||
+|||Boxe anglaise|Boxe|jeudi|17h|18h30|
+|||Boxe anglaise|Boxe|mardi|17h|18h30|
+M|Etudes Anglophones|2||||||
+|||Step-Fitness|Gym Tonic|jeudi|11h|12h|
+F|Linguistique |3||||||
+|||Krav maga|Combat|mercredi|13h|14h|
+F|Sciences du Vivant|||||||
+|||Salsa Libre|Danses|vendredi|18h|19h|
+|||Tennis de table|Sports de raquette|vendredi|12h|14h|
+|||Tennis de table|Sports de raquette|jeudi|9h|10h30|
+|||RM + Stretching Etirement|Gym Tonic|lundi|13h|14h45|
+F|Etudes Interculturelles de Langues Appliquees|1||||||
+F|Langues et Civilisations de lAsie Orientale|1||||||
+|||Musculation|Cours de musculation|jeudi|10h30|12h30|
+|||Athletisme endurance|Golf/Athletisme|vendredi|14h|16h|
+M|Sciences du Vivant|||||||
+|||Tennis de table|Sports de raquette|jeudi|9h|10h30|
+|||Badminton|Sports de raquette|jeudi|14h|16h|
+|||Badminton|Sports de raquette|mardi|8h30|10h30|
+M|Etudes Interculturelles de Langues Appliquees|3||||||
+F|Sciences du Vivant|2||||||
+|||Krav maga|Combat|mercredi|13h|14h|
+F|Departement de formation de Lettres et Sciences Humaines|1||||||
+|||Salsa Libre|Danses|vendredi|18h|19h|
+|||Abdo fessier|Gym Tonic|lundi|16h30|17h30|
+F|Informatique|||||||
+|||Yoga|Bien-etre|vendredi|14h|15h30|
+|||Pilates|Bien-etre|lundi|10h30|12h|
+F|Sciences Sociales|4||||||
+|||Badminton|Sports de raquette|lundi|9h|11h|
+|||West Coast Swing|Danses|mercredi|13h|14h|
+F|Etudes Anglophones|5||||||
+|||Badminton|Sports de raquette|vendredi|12h|14h|
+|||Volley Ball|Sports collectifs |mardi|12h30|14h|
+M|Sciences de la Terre de lEnvironnement et des Planetes|||||||
+|||Cardio et Musculation|Cours de musculation|lundi|14h|16h|
+|||Taekwondo|Combat|mardi|17h30|19h|
+M|Departement de formation de Sciences Exactes|2||||||
+|||Pilates|Bien-etre|vendredi|17h|18h|
+|||Karate|Combat|lundi|18h30|20h|
+F|Departement de formation de Sciences Exactes|2||||||
+|||Yoga|Bien-etre|jeudi|19h|20h30|
+|||Danse Orientale|Danses|lundi|17h|18h45|
+F|Etudes Interculturelles de Langues Appliquees|4||||||
+|||Badminton Matchs|Sports de raquette|jeudi|18h|20h|
+|||Athletisme endurance|Golf/Athletisme|vendredi|14h|16h|
+M|Mathematiques|4||||||

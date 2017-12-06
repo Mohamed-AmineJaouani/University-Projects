@@ -1,0 +1,15 @@
+INSTALLATION
+
+
+Compiler avec  la commande : javac *.java
+
+
+
+Lancer le serveur avec la commande java ServeurTCP port
+       exemple : java ServeurTCP 2424
+
+Lancer le client sur le serveur avec la commande java ClientTCP @IP portSERVEUR
+       exemple : java ClientTCP localhost 2424
+
+Lancer le client directement sur un hote avec la commane java ClientTCP @IP portHOTE
+       exemple : java ClientTCP localhost 1028/1029/1030/1031

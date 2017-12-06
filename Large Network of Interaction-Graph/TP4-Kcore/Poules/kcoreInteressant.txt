@@ -1,0 +1,7 @@
+Choix du K-core intéressant :
+
+La fonction coeurDense nous indique que pour k = 0 nous avons le graphe le plus dense, donc il pourrait être intéressant de choisir ce k-core. Cepensant en analysant les autres k-cores, on aperçoit que le 3-core est très intéressant pour deux raisons :
+   -sa densité est de 11,5, qui est très proche du 0-core qui est de 15,5
+   -le k-core suivant, donc le 4-core, a une densité de 0. Donc on observe que ce 3-core est très intéressant car en passant à k = 4 on perd toute la notion du graphe de départ : le graph devient quasi vide.
+
+Ainsi, le choix le plus judicieux du k-core serait le choix du 3-core.

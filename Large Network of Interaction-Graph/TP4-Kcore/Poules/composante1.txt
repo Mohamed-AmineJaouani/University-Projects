@@ -1,0 +1,9 @@
+Première Composante :
+
+La première composante trouvée contient seulement le sommet "0".
+
+A première vue ce sommet ne semble pas intéressant car il semble isolé et sans liens avec les autres poules.
+
+Mais, ce sommet est très intéressant car en regardant de plus près le fichier poules.dat, on s'aperçoit qu'il a un lien avec tous les autres sommets, donc la poule "0" domine toutes les autres poules et aucune autre poule ne la domine. 
+
+Enlever cette composante de nos résultats pertinants serait une erreur, car l'information est beaucoup trop importante. La poule "0" est donc la poule dominante et l'enlever serait une perte d'information.

@@ -1,0 +1,9 @@
+create_tables.sql : permet la créations des tables ainsi que l'insertion de quelques exemples
+
+suppr.sql : permet la suppression de toutes les tables créées
+
+fonctionnalites.sql : contient les requetes des fonctionnalites de bases voulues
+
+requetes_imposees.sql : contient les requetes imposées dans le sujet
+
+requetes_personnelles.sql : contient nos requetes personnelles faisant appel à des notions demandées

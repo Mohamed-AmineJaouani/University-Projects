@@ -1,0 +1,12 @@
+Deuxième composante :
+
+La deuxième composante trouvée contient tous les sommets sauf "0" : [1-31]
+
+On constate dans cette composante que la dominitation est assez disparate. On remarque que la poule 1 domine beaucoup d'autres poules
+et plus on s'approche de la poule 31 moins celle-ci en domine d'autre.
+
+On peut observer que les 15 premières poules de cette composante sont très dominatrices, alors que les 15 dernières le sont moins.
+
+Je pense qu'il n'est pas nécessaire de conserver les poules les moins dominatrices car elles n'apportent pas d'information pertinantes sauf
+si c'est une poule très dominée par les autres.
+Les poules qui n'ont aucun intérets sont les poules qui ne domine pas beaucoup d'autres poules et qui ne sont pas dominés par plusieurs poules.
