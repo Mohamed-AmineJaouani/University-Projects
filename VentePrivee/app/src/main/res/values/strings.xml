@@ -1,0 +1,89 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Weather</string>
+
+    <string name="today" translatable="true">Aujourd\'hui</string>
+
+    <string name="tomorrow" translatable="true">Demain</string>
+
+    <string name="format_full_friendly_date">
+        <xliff:g id="month">%1$s</xliff:g>, <xliff:g id="day">%2$s</xliff:g>
+    </string>
+
+    <string name="format_temperature_celsius">
+        <xliff:g id="temp">%1.0f</xliff:g>\u00B0C
+    </string>
+
+    <string name="format_wind_kmh">
+        <xliff:g id="speed">%1$1.0f</xliff:g> km/h <xliff:g id="direction">%2$s</xliff:g>
+    </string>
+
+    <string name="format_wind_mph">
+        <xliff:g id="speed">%1$1.0f</xliff:g> mph <xliff:g id="direction">%2$s</xliff:g>
+    </string>
+
+    <!-- Weather Conditions (From OpenWeatherMap) -->
+    <string name="condition_2xx" translatable="true">Orage</string>
+    <string name="condition_3xx" translatable="true">Bruine</string>
+    <string name="condition_500" translatable="true">Pluie légère</string>
+    <string name="condition_501" translatable="true">Pluie modérée</string>
+    <string name="condition_502" translatable="true">Forte pluie</string>
+    <string name="condition_503" translatable="true">Pluie intense</string>
+    <string name="condition_504" translatable="true">Pluie extrême</string>
+    <string name="condition_511" translatable="true">Pluie verglaçante</string>
+    <string name="condition_520" translatable="true">Averse légère</string>
+    <string name="condition_521" translatable="true">Averse</string>
+    <string name="condition_522" translatable="true">Averse lourde</string>
+    <string name="condition_531" translatable="true">Averse rageuse</string>
+    <string name="condition_600" translatable="true">Neige légère</string>
+    <string name="condition_601" translatable="true">Neige</string>
+    <string name="condition_602" translatable="true">Beaucoup de neige</string>
+    <string name="condition_611" translatable="true">Neige fondue</string>
+    <string name="condition_612" translatable="true">Averse de neige fondue</string>
+    <string name="condition_615" translatable="true">Pluie et neige légère</string>
+    <string name="condition_616" translatable="true">Pluie et neige</string>
+    <string name="condition_620" translatable="true">Averse de neige légère</string> <!-- light shower snow -->
+    <string name="condition_621" translatable="true">Averse de neige</string>
+    <string name="condition_622" translatable="true">Forte averse de neige</string> <!-- heavy shower snow -->
+    <string name="condition_701" translatable="true">Brouillard</string>
+    <string name="condition_711" translatable="true">Brume</string>
+    <string name="condition_721" translatable="true">Brume légère</string>
+    <string name="condition_731" translatable="true">Sable, poussière</string>
+    <string name="condition_741" translatable="true">Brouillard</string>
+    <string name="condition_751" translatable="true">Sable</string>
+    <string name="condition_761" translatable="true">Poussière</string>
+    <string name="condition_762" translatable="true">Cendre volcanique</string>
+    <string name="condition_771" translatable="true">Bourrasques</string>
+    <string name="condition_781" translatable="true">Tornade</string>
+    <string name="condition_800" translatable="true">Clair</string>
+    <string name="condition_801" translatable="true">Généralement dégagé</string>
+    <string name="condition_802" translatable="true">Nuages dispersés</string>
+    <string name="condition_803" translatable="true">Nuages discontinues</string>
+    <string name="condition_804" translatable="true">Nuages couvert</string>
+    <string name="condition_900" translatable="true">Tornade</string>
+    <string name="condition_901" translatable="true">Tempête tropical</string>
+    <string name="condition_902" translatable="true">Ouragan</string>
+    <string name="condition_903" translatable="true">Froid</string>
+    <string name="condition_904" translatable="true">Chaud</string>
+    <string name="condition_905" translatable="true">Venteux</string>
+    <string name="condition_906" translatable="true">Grêle</string>
+    <string name="condition_951" translatable="true">Calme</string>
+    <string name="condition_952" translatable="true">Brise légère</string>
+    <string name="condition_953" translatable="true">Petite brise</string>
+    <string name="condition_954" translatable="true">Brise</string>
+    <string name="condition_955" translatable="true">Brise fraîche</string>
+    <string name="condition_956" translatable="true">Brise forte</string>
+    <string name="condition_957" translatable="true">Vent fort</string>
+    <string name="condition_958" translatable="true">Grand vent</string>
+    <string name="condition_959" translatable="true">Grand vent sévère</string>
+    <string name="condition_960" translatable="true">Orage</string>
+    <string name="condition_961" translatable="true">Orage violent</string>
+    <string name="condition_962" translatable="true">Ouragan</string>
+
+    <string name="condition_unknown">Unknown (<xliff:g id="conditionId">%1$d</xliff:g>)</string>
+    <string name="action_refresh" translatable="true">Refresh</string>
+    <string name="error_message" translatable="true">An error has occurred. Please try again by clicking REFRESH</string>
+    <string name="weather_icon" translatable="true">weather icon</string>
+    <string name="humidity_label" translatable="true">Humidité</string>
+    <string name="pressure_label" translatable="true">Pression</string>
+    <string name="wind_label" translatable="true">Vent</string>
+</resources>
